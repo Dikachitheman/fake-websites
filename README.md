@@ -56,10 +56,3 @@ The future `web_search` tool should:
 2. Use `search_routing` to narrow the candidate sites by topic when possible.
 3. Search each site's `search-index.json`.
 4. Return ranked results with citation-safe metadata: title, URL, source, dates, tags, summary, and match reason.
-
-## Next Build Step
-
-The next implementation step after this registry is:
-
-- scaffold the 12 site folders under `fake-websites/`
-- split the mixed corpus into per-site `public/search-index.json` files
