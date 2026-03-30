@@ -1,0 +1,101 @@
+[
+  {
+    "id": "waw-001",
+    "title": "West Africa Maritime Weather Bulletin — 28 March 2026",
+    "url": "https://west-africa-weather.vercel.app/bulletins/maritime-28-march-2026",
+    "published": "2026-03-28",
+    "updated": "2026-03-28",
+    "source": "West Africa Weather",
+    "source_type": "weather_bulletin",
+    "tags": [
+      "weather",
+      "maritime",
+      "west-africa",
+      "28-march",
+      "2026",
+      "gulf-of-guinea",
+      "bight-of-benin"
+    ],
+    "summary": "Maritime weather bulletin for the Gulf of Guinea and Bight of Benin, 28 March 2026. Sea state: moderate (1.5–2.5m swell). Wind: 12–16 knots SW. Visibility: good. No significant weather events anticipated in next 72 hours.",
+    "body": "West Africa Maritime Weather Bulletin — 28 March 2026. ISSUED: 28 March 2026, 06:00 UTC. VALIDITY: 28 March to 31 March 2026. AREA: Gulf of Guinea, Bight of Benin, Nigerian coastal waters. SEA STATE: Swell height 1.5–2.5m, period 8–10 seconds, from south-southwest. Wind waves: 0.5–1.0m. Combined sea state: moderate. WIND: 12–16 knots from the southwest. No gale warnings in effect. VISIBILITY: Generally good. Isolated harmattan dust haze possible near the Nigerian coast reducing visibility to 5–8km in patches, but not expected to affect navigation significantly. PRECIPITATION: Occasional light showers in the Niger Delta coastal zone. Isolated convective activity possible after 18:00 local time. No squalls forecast. SWELL FORECAST: 29 March — swell decreasing to 1.0–1.5m as high-pressure builds. 30–31 March — settled, light swell 1.0–1.5m. RECOMMENDED OPERATIONS: All vessel operations normal. No speed reductions required for current conditions. VESSELS INBOUND TO LAGOS (estimated position 28 March): GREAT ABIDJAN approx 5.25°N, 3.85°E — favourable conditions for approach to Lagos over next 5 days. GREAT COTONOU approx 4.91°N, 2.44°E — similarly favourable. Both vessels expected to arrive Lagos anchorage in settled conditions."
+  },
+  {
+    "id": "waw-002",
+    "title": "West African Monsoon Onset Forecast — April 2026",
+    "url": "https://west-africa-weather.vercel.app/seasonal/monsoon-onset-april-2026",
+    "published": "2026-03-20",
+    "updated": "2026-03-20",
+    "source": "West Africa Weather",
+    "source_type": "seasonal_forecast",
+    "tags": [
+      "monsoon",
+      "onset",
+      "april",
+      "2026",
+      "west-africa",
+      "seasonal",
+      "forecast"
+    ],
+    "summary": "The West African Monsoon (WAM) is forecast to establish along the Nigerian coast between 12–16 April 2026, approximately 5–7 days earlier than the historical average. April sailings should plan for monsoon conditions from week 3.",
+    "body": "West African Monsoon Onset Forecast — April 2026. SUMMARY: The West African Monsoon (WAM) is expected to establish along the West African coast earlier than usual in 2026. Forecast onset at the Nigerian coast: 12–16 April 2026. Historical average onset: 19–21 April. WHY EARLIER THAN AVERAGE: The Inter-Tropical Convergence Zone (ITCZ) has been tracking north faster than usual in 2026, driven by anomalously warm sea surface temperatures in the Gulf of Guinea (currently 0.4–0.6°C above the 1991–2020 climatological mean). WHAT THE MONSOON MEANS FOR SHIPPING: Once established, the monsoon brings: Swell: 2.5–4.0m, occasionally 4–5m during organised systems. Wind: 20–30 knots, gusty to 35kn during squalls. Visibility: Reduced to 1–3km during squalls. Operational impact: Vessels typically reduce speed by 1–3 knots when transiting the Bight of Benin under monsoon conditions. Transit time extensions of 12–24 hours are common for voyages commencing mid-April onwards. IMPACT ON VESSEL SCHEDULES: Vessels departing US East Coast in mid-April for a 15-day transit will arrive Lagos approaches approximately 1 May — by which time monsoon conditions will be established. Grimaldi and Sallaum sailings in this window should be monitored for transit time extensions. COASTAL OPERATIONS: Port operations at Lagos are generally maintained during monsoon season, but heavy swell can delay pilot boarding and tug operations, adding 6–12 hours to the berthing process."
+  },
+  {
+    "id": "waw-003",
+    "title": "Harmattan Season Wind-Down — West Africa March 2026",
+    "url": "https://west-africa-weather.vercel.app/seasonal/harmattan-winddown-march-2026",
+    "published": "2026-03-10",
+    "updated": "2026-03-10",
+    "source": "West Africa Weather",
+    "source_type": "seasonal_update",
+    "tags": [
+      "harmattan",
+      "wind-down",
+      "march",
+      "2026",
+      "dust",
+      "haze",
+      "visibility"
+    ],
+    "summary": "The Harmattan (dry NE wind bringing Saharan dust) is winding down along the Nigerian coast in March 2026. Dust haze reducing. Visibility improving to near-normal by end of March. No operational concerns for maritime traffic.",
+    "body": "Harmattan Season Wind-Down — March 2026 Update. The Harmattan season along the West African coast typically runs from November to March, bringing dry northeasterly winds loaded with Saharan dust. For maritime operations, the Harmattan reduces visibility (sometimes to 1–3km) and can cause issues with electronic navigation systems due to dust accumulation. CURRENT STATUS (March 2026): The Harmattan along the Nigerian coast is substantially weakened as of mid-March. Dust concentrations have dropped to near-background levels in the Lagos area. Residual Harmattan haze is occasionally observed (morning hours) but clearing by midday. Visibility: Generally 8–15km, occasionally reducing to 5km in early morning Harmattan patches. OPERATIONAL IMPACT: No significant navigation restrictions. Pilots and tugboat operators report normal conditions. PORT OPERATIONS: No weather-related operational restrictions at Lagos Tin Can or Apapa due to Harmattan as of March 28. TRANSITION: By 1 April, Harmattan influence is expected to be negligible at Lagos. The transition to the pre-monsoon humid season will bring hazy but not dust-laden conditions through April. This transition period (April) is generally the most pleasant operational window of the year on this corridor."
+  },
+  {
+    "id": "waw-004",
+    "title": "Niger Delta Coastal Wave Height Forecast — 1–7 April 2026",
+    "url": "https://west-africa-weather.vercel.app/forecasts/niger-delta-wave-1-7-april-2026",
+    "published": "2026-03-27",
+    "updated": "2026-03-28",
+    "source": "West Africa Weather",
+    "source_type": "wave_forecast",
+    "tags": [
+      "niger-delta",
+      "wave",
+      "height",
+      "forecast",
+      "april",
+      "2026",
+      "swell"
+    ],
+    "summary": "Wave height forecast for the Nigerian coastal zone (Lagos to Delta), 1–7 April 2026. Peak swell: 1.5–2.0m on 1–3 April, easing to 1.0–1.5m by 5 April. Favourable window for vessel arrivals.",
+    "body": "Niger Delta Coastal Wave Height Forecast — 1–7 April 2026. FORECAST ZONE: Nigerian Exclusive Economic Zone (EEZ), focusing on Lagos approach and offshore Niger Delta. ISSUED: 28 March 2026. DATA SOURCES: ECMWF WAM global wave model, NOAA WaveWatch III, satellite altimetry (Sentinel-6). WAVE HEIGHT FORECAST: 1 April 2026: Significant wave height (Hs) 1.5–2.0m from SSW. Swell period: 8–10s. Sea state: moderate. 2 April 2026: Hs 1.5–2.0m, conditions broadly unchanged. Both inbound vessels (GREAT COTONOU, GREAT ABIDJAN) expected in the Lagos approaches. Conditions favourable for pilot boarding and anchorage operations. 3 April 2026: Hs 1.5m, decreasing. Wind easing to 10–14kn. Sea state: slight to moderate. 4–5 April 2026: Hs 1.0–1.5m. Settled pre-monsoon conditions. Excellent for all port operations. 6–7 April 2026: Hs 1.0–1.5m, stable. Monsoon onset not yet established. TIDES: Lagos (Tin Can): Mean range approximately 1.2m. High water: 06:15 and 18:30 local (approximate). Low water: 00:30 and 12:45 local. Berth operations are not significantly affected by tides at Lagos (moderate tidal range). SUMMARY: The first week of April 2026 represents a favourable weather window for Lagos port operations and vessel arrival/discharge. No weather-related delays anticipated."
+  },
+  {
+    "id": "waw-005",
+    "title": "West Africa Rainfall Season Outlook 2026 — Nigeria and Gulf of Guinea",
+    "url": "https://west-africa-weather.vercel.app/seasonal/rainfall-outlook-2026",
+    "published": "2026-03-01",
+    "updated": "2026-03-01",
+    "source": "West Africa Weather",
+    "source_type": "seasonal_outlook",
+    "tags": [
+      "rainfall",
+      "season",
+      "2026",
+      "nigeria",
+      "gulf-of-guinea",
+      "annual-outlook"
+    ],
+    "summary": "2026 rainfall season outlook for Nigeria and the Gulf of Guinea. Above-normal rainfall expected April–September 2026 driven by La Nina conditions. Flood risk elevated in the Niger Delta. Port operations may be intermittently disrupted May–July.",
+    "body": "West Africa Rainfall Season Outlook 2026 — Nigeria and Gulf of Guinea. BACKGROUND: La Nina conditions are forecast to persist through Q2 2026 (weakening La Nina, ENSO-neutral transition by Q3). La Nina years typically produce above-normal rainfall in the West Africa monsoon season. FORECAST SUMMARY: April–May 2026: Early onset of rains. Above-normal rainfall probability 60%. Lagos and Niger Delta: elevated flood risk from mid-May. June–July 2026: Peak monsoon season. Heavy, organised rainfall events. Above-normal total rainfall likely across southern Nigeria. August–September 2026: Monsoon mature and declining. Near-normal to above-normal. IMPLICATIONS FOR PORT OPERATIONS: (1) PORT ROAD ACCESS: The approach roads to Apapa and Tin Can terminals are known to flood during heavy rainfall events. Flooding on Wharf Road (Apapa) and Mile 2 access routes has historically disrupted truck access for 12–36 hours per major rainfall event. (2) OUTDOOR CARGO HANDLING: Ro-ro discharge operations on ramps are generally not affected by moderate rain. Very heavy rainfall (>50mm/hour) may temporarily halt discharge for safety reasons. (3) VESSEL APPROACH: Vessel approach and pilot boarding at Lagos is generally maintained during all but the most severe squalls. (4) PLANNING: For shipments arriving May–July 2026, factor in weather-related port access delays when planning downstream logistics."
+  }
+]

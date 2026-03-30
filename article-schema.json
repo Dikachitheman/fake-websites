@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://dockie.local/fake-websites/article-schema.json",
+  "title": "Fake Web Article",
+  "description": "Shared article schema for every simulated fake-web React site used by Dockie's web_search tool.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "title",
+    "url",
+    "published",
+    "updated",
+    "source",
+    "source_type",
+    "tags",
+    "summary",
+    "body"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Stable article identifier unique within the source corpus."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Human-readable article title shown in search results and article pages."
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Canonical public URL for the article on the deployed fake website."
+    },
+    "published": {
+      "type": "string",
+      "format": "date",
+      "description": "Original publication date in YYYY-MM-DD format."
+    },
+    "updated": {
+      "type": "string",
+      "format": "date",
+      "description": "Last updated date in YYYY-MM-DD format."
+    },
+    "source": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Display name of the website or publication."
+    },
+    "source_type": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Source-specific content class such as carrier_schedule, berth_notice, or compliance_guide."
+    },
+    "tags": {
+      "type": "array",
+      "description": "Searchable free-form keywords used for routing and ranking.",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Short search-result summary or dek."
+    },
+    "body": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Full article text used for snippet generation and simulated article detail pages."
+    }
+  }
+}

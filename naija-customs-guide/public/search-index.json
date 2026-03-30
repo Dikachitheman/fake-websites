@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ncg-001",
+    "title": "PAAR Process Guide — How to File a Pre-Arrival Assessment Report in Nigeria (2026)",
+    "url": "https://naija-customs-guide.vercel.app/guides/paar-process-2026",
+    "published": "2026-01-10",
+    "updated": "2026-03-01",
+    "source": "Naija Customs Guide",
+    "source_type": "customs_guide",
+    "tags": [
+      "paar",
+      "customs",
+      "nigeria",
+      "pre-arrival",
+      "assessment",
+      "form-m",
+      "nicis"
+    ],
+    "summary": "Step-by-step guide to filing a PAAR (Pre-Arrival Assessment Report) with Nigerian Customs Service (NCS) via the NICIS-2 system. Covers Form M, scanning requirements, and timeline.",
+    "body": "PAAR Process Guide for Vehicle Importers — Nigeria 2026. The Pre-Arrival Assessment Report (PAAR) is a mandatory requirement for all imports into Nigeria, including vehicles shipped on ro-ro vessels. A valid PAAR must be generated before cargo can be examined and released by the Nigeria Customs Service (NCS). STEP 1 — OBTAIN FORM M: Form M is a mandatory foreign exchange control document issued by a licensed Nigerian bank. It confirms that the importer has the foreign exchange to pay for the goods. Required documents for Form M: Proforma invoice, Import duty payment evidence, Valid SON (Standards Organisation of Nigeria) certification for vehicles. Timeline: Allow 5–10 business days. STEP 2 — FILE PAAR ON NICIS-2: Access the Nigeria Customs NICIS-2 portal (nicis2.customs.gov.ng). Upload: Commercial invoice, Packing list, Bill of Lading, Form M number, Combined Certificate of Value and Origin (CCVO). The system will automatically generate a customs assessment (duty calculation). Review the assessment and pay the customs duty online via the e-payment gateway. STEP 3 — OBTAIN PAAR NUMBER: After payment, the system issues a PAAR number. This number is required for physical examination at the port. TIMELINE: Begin PAAR filing at least 10 business days before vessel ETA. DUTY RATES: Vehicles typically attract 35% import duty + 7.5% VAT on CIF (Cost, Insurance, Freight) value. Used vehicles older than 15 years are prohibited from import into Nigeria."
+  },
+  {
+    "id": "ncg-002",
+    "title": "Form M Guide — Common Mistakes That Delay Vehicle Clearance at Lagos",
+    "url": "https://naija-customs-guide.vercel.app/guides/form-m-common-mistakes",
+    "published": "2026-02-05",
+    "updated": "2026-03-10",
+    "source": "Naija Customs Guide",
+    "source_type": "customs_guide",
+    "tags": [
+      "form-m",
+      "mistakes",
+      "vehicle",
+      "clearance",
+      "lagos",
+      "delay"
+    ],
+    "summary": "The top 8 Form M errors that cause clearance delays at Lagos for vehicle importers. Includes SON certification pitfalls, name mismatches, and how to amend a Form M after vessel departure.",
+    "body": "Form M Common Mistakes for Vehicle Importers. Naija Customs Guide has documented the most frequent Form M errors that lead to delays and demurrage at Lagos ports. MISTAKE 1 — SON CERTIFICATION MISMATCH: The Standards Organisation of Nigeria (SON) certification must match the exact vehicle year, make, model, and VIN on the Bill of Lading. Any discrepancy triggers a full physical examination and potentially a new certification. Allow 5–7 business days for SON re-certification. MISTAKE 2 — CONSIGNEE NAME DIFFERS FROM SON CERT: The importer name on Form M must exactly match the SON Certificate and the Bill of Lading. Middle name abbreviations or LLC vs Ltd variations have caused holds. MISTAKE 3 — LATE FORM M SUBMISSION: Form M must be submitted to the bank before the vessel departs the load port. Post-departure amendments require CBN (Central Bank of Nigeria) approval, which takes 5–15 business days. MISTAKE 4 — CIF VALUE UNDERSTATEMENT: NCS routinely benchmarks declared CIF values against their database. Understatement triggers valuation queries and may require a customs bond. MISTAKE 5 — EXPIRED SON CERTIFICATION: SON certs are valid for 12 months. If your vehicle shipment is delayed and the cert expires before arrival, a new cert is required at port. MISTAKE 6 — MISSING CCVO: The Combined Certificate of Value and Origin must be from the exporting country's chamber of commerce. MISTAKE 7 — WRONG PORT OF DISCHARGE ON FORM M: If your vehicle is redirected to a different terminal (e.g., Apapa instead of Tin Can), you need a Form M amendment. MISTAKE 8 — PAYMENT CURRENCY MISMATCH: Form M currency must match the invoice currency. USD invoices require USD Form M."
+  },
+  {
+    "id": "ncg-003",
+    "title": "NCS Customs Duty Rates for Vehicles — 2026 Update",
+    "url": "https://naija-customs-guide.vercel.app/rates/vehicle-duty-rates-2026",
+    "published": "2026-01-15",
+    "updated": "2026-01-15",
+    "source": "Naija Customs Guide",
+    "source_type": "duty_rates",
+    "tags": [
+      "customs-duty",
+      "rates",
+      "vehicles",
+      "2026",
+      "ncs",
+      "import-duty"
+    ],
+    "summary": "Current Nigeria Customs Service (NCS) duty rates for imported vehicles effective 2026. Cars: 35% import duty + 7.5% VAT. SUVs: 35% + 7.5%. Trucks/commercial: 10% + 7.5%. Levy surcharges apply.",
+    "body": "Nigeria Vehicle Import Duty Rates — 2026. The following duty rates apply to vehicle imports into Nigeria under the ECOWAS Common External Tariff (CET) and Nigeria's supplementary tariffs. All rates are applied on CIF (Cost + Insurance + Freight) value. PASSENGER VEHICLES (HS Chapter 87.03): Import Duty: 35%. VAT: 7.5%. ECOWAS Levy: 0.5%. Combined effective rate: approximately 43%. COMMERCIAL VEHICLES / TRUCKS (HS Chapter 87.04): Import Duty: 10%. VAT: 7.5%. Combined effective rate: approximately 17.5%. BUSES (HS Chapter 87.02): Import Duty: 5%. VAT: 7.5%. Combined effective rate: approximately 12.5%. SPECIAL VEHICLES (ambulances, fire trucks, etc.): Import Duty: 0%. VAT: 7.5%. AGE RESTRICTION: Vehicles older than 15 years from the year of manufacture are prohibited from import into Nigeria (blanket prohibition, no waivers). PENALTIES: Vehicles imported without valid PAAR attract a penalty of 15% of CIF value in addition to full duties. NCS has been intensifying enforcement at Tin Can and Apapa since January 2026. EXCHANGE RATE FOR DUTY: Duty is assessed at the CBN official exchange rate on the date of PAAR generation. The CBN rate for customs purposes is published daily."
+  },
+  {
+    "id": "ncg-004",
+    "title": "E-Customs (NICIS-2) System Downtime Notice — 28–30 March 2026",
+    "url": "https://naija-customs-guide.vercel.app/notices/nicis2-downtime-march-2026",
+    "published": "2026-03-26",
+    "updated": "2026-03-26",
+    "source": "Naija Customs Guide",
+    "source_type": "system_notice",
+    "tags": [
+      "nicis2",
+      "downtime",
+      "system",
+      "ecustoms",
+      "maintenance",
+      "march-2026"
+    ],
+    "summary": "Nigeria Customs Service NICIS-2 portal scheduled for maintenance downtime 28–30 March 2026. PAAR filings will be unavailable during this window. Importers advised to file early.",
+    "body": "NICIS-2 System Maintenance Downtime — 28–30 March 2026. The Nigeria Customs Service (NCS) has announced a scheduled maintenance window for the NICIS-2 electronic customs processing system. Downtime window: Saturday 28 March 2026 at 22:00 (WAT) to Monday 30 March 2026 at 06:00 (WAT). During this period: New PAAR filings will NOT be accepted. Amendments to existing PAARs will NOT be processed. Duty payment gateway will be offline. IMPACTED IMPORTERS: Importers with vessels arriving Lagos around 1–7 April 2026 and who have not yet filed PAAR must do so before 28 March at 22:00 or wait until 30 March from 06:00. Importers who fail to file PAAR due to this downtime should contact their NCS desk officer at Apapa or Tin Can with documentary evidence of the system outage to request a waiver of the standard late-filing penalty. EMERGENCY MANUAL PROCESSING: NCS has confirmed that a manual paper-based processing path is available during downtime for vessels already berthed. Contact the NCS terminal office at your discharge port. This advisory is particularly urgent for importers on GREAT ABIDJAN (ETA ~3 April) and GREAT COTONOU (ETA ~2 April) — both vessels arrive shortly after the maintenance window. File PAAR before 28 March."
+  },
+  {
+    "id": "ncg-005",
+    "title": "How Demurrage Accumulates at Lagos — What Importers Often Miss",
+    "url": "https://naija-customs-guide.vercel.app/guides/demurrage-lagos-ro-ro",
+    "published": "2026-02-20",
+    "updated": "2026-03-05",
+    "source": "Naija Customs Guide",
+    "source_type": "customs_guide",
+    "tags": [
+      "demurrage",
+      "free-days",
+      "ro-ro",
+      "storage",
+      "apapa",
+      "tin-can",
+      "cost"
+    ],
+    "summary": "Practical guide to how demurrage and storage charges accumulate for ro-ro vehicles at Apapa and Tin Can terminals. Free day allowances, daily rates, and how documentation delays compound costs.",
+    "body": "Demurrage and Storage Guide — Ro-Ro Vehicles at Lagos. Demurrage is one of the most significant and avoidable costs in Nigerian vehicle importation. This guide explains how charges accumulate and how to minimise them. FREE DAYS: Sallaum Lines: 14 free days from vessel arrival at berth (not from discharge completion). Grimaldi Lines: 14 free days from discharge completion. After free days, storage charges apply at the terminal. TERMINAL STORAGE RATES (approximate, 2026): Tin Can Island: ₦25,000–₦40,000 per vehicle per day depending on vehicle size. Apapa Quays: ₦20,000–₦35,000 per vehicle per day. WHAT COUNTS AS DAY 1: For Sallaum, the clock starts when the vessel berths, NOT when your vehicle is offloaded. Vehicles loaded early in the discharge sequence (days 1–2 of discharge) effectively have fewer free days available before storage charges kick in. DOCUMENTATION DELAYS COMPOUND COSTS: A 5-day PAAR delay = 5 fewer free days = potentially ₦125,000–₦200,000 in storage charges per vehicle. NCS physical examination: if triggered, adds 2–5 business days during which storage charges continue. PRACTICAL TIMELINE PLANNING: For vehicles arriving at Lagos with a projected berth date of 7 April, free days end approximately 21 April. All documentation, PAAR payment, and NCS examination must be completed and vehicle collected by 21 April to avoid storage. Allow 5–7 business days for NCS processing after PAAR is filed."
+  },
+  {
+    "id": "ncg-006",
+    "title": "Pre-Arrival Readiness Checklist - What to Finish 10 Days Before Your Vessel Berths",
+    "url": "https://naija-customs-guide.vercel.app/checklists/pre-arrival-readiness-10-days-before-berth",
+    "published": "2026-03-29",
+    "updated": "2026-03-29",
+    "source": "Naija Customs Guide",
+    "source_type": "readiness_checklist",
+    "tags": [
+      "pre-arrival",
+      "checklist",
+      "paar",
+      "form-m",
+      "berth-planning",
+      "readiness"
+    ],
+    "summary": "A practical importer checklist for the 10-day window before expected berth. Covers Form M, BL, PAAR, customs duty payment, clearing agent readiness, and truck planning.",
+    "body": "Pre-Arrival Readiness Checklist - 10 Days Before Berth. Many Lagos clearance delays happen because importers wait for berth confirmation before finishing paperwork. That is usually too late. If your shipment is within roughly 10 days of expected berth, complete the following immediately. 1. Confirm Form M has been approved by the bank and matches the consignee details exactly. 2. Confirm Bill of Lading copy has been received and all VIN, year, make, and consignee details align with Form M and SON documentation. 3. Verify PAAR has already been submitted to the bank or NCS-facing desk; do not wait until the vessel reaches anchorage. 4. Confirm customs clearing agent has the full document pack and terminal of discharge. 5. Confirm customs duty funding is available so payment can be made as soon as assessment is issued. 6. Prepare truck dispatch planning, but keep collection dates flexible until berth and discharge timing are clearer. RULE OF THUMB: treat the predicted berth window, not the raw carrier ETA, as the operational countdown for paperwork readiness."
+  },
+  {
+    "id": "ncg-007",
+    "title": "PAAR Timing Reality Check - Why Starting After Anchorage Usually Costs Money",
+    "url": "https://naija-customs-guide.vercel.app/guides/paar-timing-after-anchorage-costs-money",
+    "published": "2026-03-30",
+    "updated": "2026-03-30",
+    "source": "Naija Customs Guide",
+    "source_type": "customs_guide",
+    "tags": [
+      "paar",
+      "anchorage",
+      "demurrage",
+      "timing",
+      "clearance-risk",
+      "lagos"
+    ],
+    "summary": "Naija Customs Guide explains why waiting until a vessel reaches Lagos anchorage before pushing PAAR processing often compresses the free-day window and increases demurrage exposure.",
+    "body": "PAAR Timing Reality Check. Importers sometimes assume they can wait until their vessel is visibly near Lagos before pushing PAAR processing. In practice, that is one of the easiest ways to compress the free-day window and create avoidable storage cost. WHY: Once a vessel hits anchorage, the remaining timeline can move quickly if berth allocation clears sooner than expected. If PAAR is still pending at that point, customs duty payment, examination scheduling, and vehicle release all queue behind it. PRACTICAL EFFECT: A shipment that appears to have 5 free days left can lose most of that margin if PAAR issuance lags by even 48-72 hours after berth. BEST PRACTICE: Start PAAR processing while the vessel is still in ocean transit, ideally no later than 7-10 business days before expected berth. If your vessel is already at anchorage and PAAR is not yet issued, treat the shipment as elevated clearance risk and escalate with your bank or customs representative immediately."
+  }
+]

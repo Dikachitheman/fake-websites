@@ -1,0 +1,78 @@
+[
+  {
+    "id": "msw-001",
+    "title": "OFAC Sanctions Check — Vessel Compliance Guide for US–West Africa Ro-Ro Shipments (2026)",
+    "url": "https://maritime-sanctions-watch.vercel.app/guides/ofac-vessel-compliance-2026",
+    "published": "2026-01-20",
+    "updated": "2026-03-15",
+    "source": "Maritime Sanctions Watch",
+    "source_type": "compliance_guide",
+    "tags": [
+      "ofac",
+      "sanctions",
+      "vessel",
+      "compliance",
+      "us-export",
+      "west-africa",
+      "screening"
+    ],
+    "summary": "Compliance guide for US exporters shipping vehicles to West Africa. Covers OFAC vessel screening requirements, blocked vessels list, beneficial ownership checks, and best practices for Nigeria-bound cargo.",
+    "body": "OFAC Sanctions Compliance Guide — US to West Africa Ro-Ro Shipments 2026. All US exporters are responsible for ensuring that the vessels they use to ship goods comply with OFAC (Office of Foreign Assets Control) sanctions. This guide covers key compliance requirements for the US–Nigeria ro-ro corridor. VESSEL SCREENING: Before booking cargo on a ro-ro vessel, US exporters should screen the vessel against: (1) OFAC SDN (Specially Designated Nationals) List — check vessel name and IMO number. (2) OFAC Consolidated Sanctions List. (3) EU, UK, and UN sanctions lists (relevant for EU-connected counterparties). Frequency: Screen at the time of booking and again at the time of vessel departure. SALLAUM LINES AND GRIMALDI: As of March 2026, Sallaum Lines and Grimaldi Lines are not subject to OFAC sanctions. Both are EU-registered carriers. Standard screening is recommended but these carriers are considered low-risk. BENEFICIAL OWNERSHIP: Be aware that vessel beneficial ownership can change. Use IMO ship identification (not just vessel name) when screening. A vessel that changes flag or beneficial owner may move on or off sanctions lists. NIGERIA-SPECIFIC: Nigeria is not subject to OFAC country sanctions. Standard due diligence applies. However, consignees in Nigeria should be screened against the SDN list — particularly if the importer is a corporate entity. TOOLS: OFAC provides a free search tool at sanctions.ofac.treas.gov. Recommend screening every 90 days for regular counterparties."
+  },
+  {
+    "id": "msw-002",
+    "title": "Dark Fleet Watch — West Africa Coastal Waters, Q1 2026",
+    "url": "https://maritime-sanctions-watch.vercel.app/reports/dark-fleet-west-africa-q1-2026",
+    "published": "2026-03-10",
+    "updated": "2026-03-10",
+    "source": "Maritime Sanctions Watch",
+    "source_type": "intelligence_report",
+    "tags": [
+      "dark-fleet",
+      "ais-spoofing",
+      "west-africa",
+      "sanctions-evasion",
+      "q1-2026"
+    ],
+    "summary": "Q1 2026 report on suspected sanctions-evasion vessels operating in West African waters. Focuses on AIS-dark or AIS-spoofing vessels transiting the Bight of Benin. No impact on legitimate ro-ro carrier operations.",
+    "body": "Dark Fleet Monitor — West Africa Coastal Waters, Q1 2026. Maritime Sanctions Watch tracks vessels that engage in deceptive shipping practices (AIS manipulation, flag hopping, ship-to-ship transfers) to evade sanctions in the West Africa region. Q1 2026 SUMMARY: 8 vessels identified with suspected AIS manipulation in Gulf of Guinea waters in Q1 2026. Primary commodities: crude oil and refined petroleum products (not ro-ro cargo). 3 vessels flagged for offshore ship-to-ship transfers in international waters off Equatorial Guinea. 2 vessels suspected of transmitting false destination data (AIS destination field). NO IMPACT ON LEGITIMATE RO-RO CARRIERS: Sallaum Lines and Grimaldi Lines vessels are transmitting AIS data consistently and accurately. AIS tracks for GREAT ABIDJAN and GREAT COTONOU are clean and consistent with declared schedules. WHAT TO WATCH: The dark fleet primarily operates tankers on sanctioned oil trades. The ro-ro segment has not been materially affected on the Nigeria corridor. However, forwarders and importers should be aware that AIS data alone is not sufficient for compliance — always cross-reference with flag state registry records and owner screening. IMO DISCLAIMER: All identified vessels in this report are flagged for investigation purposes only. Maritime Sanctions Watch does not make definitive legal determinations of sanctions violations."
+  },
+  {
+    "id": "msw-003",
+    "title": "UK OFSI Shipping Guidance Update — February 2026",
+    "url": "https://maritime-sanctions-watch.vercel.app/regulatory/uk-ofsi-shipping-february-2026",
+    "published": "2026-02-18",
+    "updated": "2026-02-18",
+    "source": "Maritime Sanctions Watch",
+    "source_type": "regulatory_update",
+    "tags": [
+      "uk",
+      "ofsi",
+      "sanctions",
+      "shipping",
+      "guidance",
+      "2026",
+      "price-cap"
+    ],
+    "summary": "UK OFSI (Office of Financial Sanctions Implementation) updates shipping guidance in February 2026. New reporting thresholds for maritime services. Price cap coalition compliance unchanged for non-Russia trades.",
+    "body": "UK OFSI Shipping Guidance Update — February 2026. The UK's Office of Financial Sanctions Implementation (OFSI) published updated guidance for the maritime sector in February 2026. KEY CHANGES: (1) REPORTING THRESHOLD: UK persons providing maritime services (shipping, insurance, trade finance) are now required to report transactions suspected of involving sanctioned parties within 10 business days (previously 30 days). (2) SCOPE CLARIFICATION: The updated guidance clarifies that UK sanctions apply to UK persons anywhere in the world, not just UK-registered companies. (3) INSURANCE: P&I Clubs providing liability coverage to vessels calling at West African ports must ensure the vessels are screened against all applicable UK, EU, UN, and US sanctions lists. NON-RUSSIA TRADES: The guidance confirms that the price cap (applicable to Russian oil trades) has no bearing on legitimate non-Russia commodity trades including vehicle shipping on the West Africa corridor. PRACTICAL IMPACT ON NIGERIA CORRIDOR: Low. Sallaum and Grimaldi are both EU-registered and have robust compliance programmes. No specific Nigeria or West Africa measures have been introduced. Standard due diligence applies. FOR IMPORTERS: Ensure your freight forwarder and shipping agent have current sanctions screening procedures in place. Ask for a sanctions compliance confirmation as part of your booking documentation."
+  },
+  {
+    "id": "msw-004",
+    "title": "Vessel Flag of Convenience Monitor — West Africa-Bound Ro-Ro Fleet, March 2026",
+    "url": "https://maritime-sanctions-watch.vercel.app/monitor/flag-of-convenience-roro-march-2026",
+    "published": "2026-03-05",
+    "updated": "2026-03-05",
+    "source": "Maritime Sanctions Watch",
+    "source_type": "vessel_monitor",
+    "tags": [
+      "flag-of-convenience",
+      "roro",
+      "west-africa",
+      "vessel-registry",
+      "compliance"
+    ],
+    "summary": "Review of flag registries for ro-ro vessels on the West Africa lane. GREAT ABIDJAN: Marshall Islands flag, clean status. GREAT COTONOU: Bahamas flag, clean status. GREAT TEMA: Malta flag, clean status.",
+    "body": "Flag of Convenience Monitor — West Africa Ro-Ro Fleet, March 2026. Maritime Sanctions Watch reviews the flag registry status of vessels operating on the US–West Africa ro-ro lane. GREAT ABIDJAN (IMO: 9935040): Flag: Marshall Islands. Registry: International Registries Inc. Owner: Sallaum Lines (Saudi Arabian ownership). Status: CLEAN. No sanctions flags, no detentions in past 24 months. Last Port State Control inspection: December 2025 (Port of Baltimore, USCG) — zero deficiencies. GREAT COTONOU (IMO: 9922345): Flag: Bahamas. Registry: Bahamas Maritime Authority. Owner: Grimaldi Group (Italian ownership). Status: CLEAN. No sanctions flags. Last PSC inspection: January 2026 (Savannah, USCG) — 2 minor deficiencies, both rectified. GREAT TEMA (IMO: 9919876): Flag: Malta. Registry: Transport Malta. Owner: Grimaldi Group. Status: CLEAN. No sanctions flags. Currently under routine engineering inspection at Baltimore (see Grimaldi fleet notice, March 2026). GRANDE ANGOLA (next Sallaum sailing): Flag: Marshall Islands. Owner: Sallaum Lines. Status: CLEAN. No flags of concern. METHODOLOGY: Maritime Sanctions Watch screens vessels against OFAC SDN, EU consolidated sanctions list, UN Security Council consolidated list, and UK OFSI consolidated list. Screening was conducted on 5 March 2026. Status may change — re-screen before each voyage."
+  }
+]

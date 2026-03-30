@@ -1,0 +1,101 @@
+[
+  {
+    "id": "fx-001",
+    "title": "USD/NGN Daily Rate Bulletin — 28 March 2026",
+    "url": "https://fx-bulletin.vercel.app/rates/usd-ngn-28-march-2026",
+    "published": "2026-03-28",
+    "updated": "2026-03-28",
+    "source": "FX Bulletin",
+    "source_type": "fx_rate",
+    "tags": [
+      "usd",
+      "ngn",
+      "exchange-rate",
+      "28-march",
+      "2026",
+      "cbn",
+      "parallel-market"
+    ],
+    "summary": "USD/NGN rate on 28 March 2026: CBN official rate 1,601 NGN/USD. Bureau de Change (BDC) mid-rate 1,647 NGN/USD. Parallel market rate 1,658 NGN/USD. Spread between official and parallel: 3.6%.",
+    "body": "FX Bulletin — USD/NGN Daily Rate Summary — 28 March 2026. OFFICIAL RATES (Central Bank of Nigeria): USD/NGN CBN spot rate: 1,601.50. This is the rate used by Nigerian banks for formal transactions including Form M and customs duty payments. The CBN rate is published daily at approximately 09:00 WAT on the CBN website. BUREAU DE CHANGE (BDC): Average BDC mid-rate: 1,647 NGN/USD. BDC buy rate: 1,640. BDC sell rate: 1,655. PARALLEL MARKET: Observed parallel market rate: 1,658 NGN/USD. The parallel market premium above CBN official rate: 3.6%. The parallel market rate reflects real-time USD liquidity conditions in Lagos. WEEKLY TREND: The naira has been broadly stable this week following CBN intervention of approximately $150m on 25 March. The CBN conducted FX spot sales to authorised dealers to support the naira ahead of quarter-end. OUTLOOK: Q2 2026 FX outlook remains cautious. Oil revenue (the primary source of Nigeria's FX earnings) is broadly stable at Brent $78–$82/bbl, but pipeline disruptions in the Niger Delta have reduced export volumes by an estimated 8% in Q1. The naira is expected to trade in a 1,580–1,680 range in April. IMPORT DUTY IMPLICATION: Customs duty on a vehicle with CIF value of $20,000 at 35% duty rate = $7,000 duty. At CBN rate (1,601): ₦11.2m. At parallel (1,658): ₦11.6m. The approximately ₦400,000 difference is material for high-volume importers."
+  },
+  {
+    "id": "fx-002",
+    "title": "CBN Form M FX Allocation — March 2026 Update",
+    "url": "https://fx-bulletin.vercel.app/cbn/form-m-allocation-march-2026",
+    "published": "2026-03-17",
+    "updated": "2026-03-26",
+    "source": "FX Bulletin",
+    "source_type": "cbn_policy",
+    "tags": [
+      "cbn",
+      "form-m",
+      "fx-allocation",
+      "import",
+      "usd",
+      "nigerian-banks"
+    ],
+    "summary": "CBN continues to process Form M FX allocations through authorised dealers. Current processing time: 5–8 business days. Vehicle imports classified as 'eligible' under the FX policy. Dollar supply constraints still reported by some importers.",
+    "body": "CBN Form M FX Allocation Status — March 2026. The Central Bank of Nigeria (CBN) Form M process for vehicle imports remains active but importers continue to report processing delays at some commercial banks. CURRENT STATUS: Form M FX allocations for vehicle imports: ELIGIBLE under CBN import policy. Vehicle imports (HS Chapter 87) are on the approved import list. Typical processing time (from Form M application to FX allocation): 5–8 business days at most Tier-1 banks. Some smaller commercial banks are taking 10–14 days. PRACTICAL NOTES FOR IMPORTERS: (1) Apply for Form M as early as possible — do not wait until the vessel departs the load port. Ideally, Form M should be in place before cargo receipt at Baltimore or Savannah. (2) The CBN FX auction system provides USD at the official rate (currently 1,601 NGN/USD) for eligible imports. This is preferable to sourcing dollars on the parallel market. (3) If your bank cannot source FX within 10 days, consider switching to a Tier-1 bank with confirmed CBN FX auction access (GTB, Zenith, Access, UBA, First Bank). ADVANCE PAYMENT: If you are paying the US exporter in advance, ensure you have Form M in place before transferring FX. CBN now actively monitors and may penalise advance payments without prior Form M. QUARTERLY CAP: CBN has not announced any quarterly FX cap for vehicle imports in Q2 2026. The import licence system is functioning normally."
+  },
+  {
+    "id": "fx-003",
+    "title": "Nigeria Inflation and FX Outlook — April 2026 Preview",
+    "url": "https://fx-bulletin.vercel.app/outlook/nigeria-inflation-fx-april-2026",
+    "published": "2026-03-25",
+    "updated": "2026-03-25",
+    "source": "FX Bulletin",
+    "source_type": "fx_outlook",
+    "tags": [
+      "nigeria",
+      "inflation",
+      "fx",
+      "outlook",
+      "april",
+      "2026",
+      "naira"
+    ],
+    "summary": "Nigeria inflation running at 28.4% YoY (February 2026 NBS data). Fuel subsidy removal effects still feeding through. Naira expected to remain under pressure in April. CBN likely to hold rates at March MPC meeting.",
+    "body": "Nigeria Macroeconomic and FX Outlook — April 2026. FX Bulletin summarises the macroeconomic context relevant to vehicle importers with Nigeria exposure. INFLATION: Nigeria's National Bureau of Statistics (NBS) reported February 2026 inflation at 28.4% year-on-year. Food inflation: 31.2%. Core inflation: 24.1%. The fuel subsidy removal (2023) continues to create pass-through inflation, though the rate of increase has moderated from the 33%+ peak of mid-2024. MONETARY POLICY: The CBN Monetary Policy Committee (MPC) is scheduled to meet on 21–22 April 2026. Market consensus expects the MPC to hold the Monetary Policy Rate (MPR) at 27.25%. The MPC has maintained a tightening bias since late 2023 but is increasingly balancing inflation control with growth concerns. FX OUTLOOK: USD/NGN is expected to trade in the 1,580–1,700 range through April 2026. Key risk factors: (1) Niger Delta oil output disruptions reducing FX inflows. (2) End-of-quarter demand for dollars by Nigerian corporates. (3) Any reversal of recent CBN FX interventions. IMPACT ON IMPORTERS: Vehicle import costs denominated in NGN are rising at approximately the rate of inflation (28%). Importers who locked in USD at the start of Q1 at 1,540 are now sitting on an approximately 4% adverse move. RECOMMENDATION: Hedge FX exposure where possible. Settle customs duties promptly — a 1-week delay in duty payment while the naira weakens adds cost."
+  },
+  {
+    "id": "fx-004",
+    "title": "Historical USD/NGN Rate Table — January to March 2026",
+    "url": "https://fx-bulletin.vercel.app/history/usd-ngn-q1-2026",
+    "published": "2026-03-28",
+    "updated": "2026-03-28",
+    "source": "FX Bulletin",
+    "source_type": "fx_history",
+    "tags": [
+      "usd",
+      "ngn",
+      "history",
+      "q1-2026",
+      "exchange-rate",
+      "table"
+    ],
+    "summary": "CBN official USD/NGN exchange rate history for Q1 2026. January average: 1,543. February average: 1,572. March average: 1,601. Trend shows consistent 1.8–2.1% monthly depreciation.",
+    "body": "USD/NGN Historical Rate Table — Q1 2026 (CBN Official Rates). The following CBN official daily rates are sourced from the CBN forex portal. Selected data points: 2 January 2026: 1,521. 9 January 2026: 1,531. 16 January 2026: 1,540. 23 January 2026: 1,548. 30 January 2026: 1,556. January Average: 1,543. 6 February 2026: 1,561. 13 February 2026: 1,568. 20 February 2026: 1,576. 27 February 2026: 1,585. February Average: 1,572. 6 March 2026: 1,588. 13 March 2026: 1,593. 20 March 2026: 1,598. 27 March 2026: 1,601. March Average (to date): 1,595. TREND ANALYSIS: The naira has depreciated at a consistent pace of approximately 1.8–2.1% per month against the dollar in Q1 2026. This is slower than the 3–4% monthly pace of 2024. The pace has moderated as CBN's FX unification policy matures and dollar supply improves marginally. PROJECTION: At this pace, USD/NGN could reach 1,650–1,680 by June 2026. Importers with June shipments should factor in this FX trajectory when calculating duty liability. PARALLEL MARKET: The parallel market has consistently traded at a 3–5% premium above the CBN official rate throughout Q1, tighter than the 10–15% premium observed in 2024."
+  },
+  {
+    "id": "fx-005",
+    "title": "Understanding Customs FX Rate vs Market Rate — A Guide for Nigerian Vehicle Importers",
+    "url": "https://fx-bulletin.vercel.app/guides/customs-fx-rate-vs-market",
+    "published": "2026-02-01",
+    "updated": "2026-02-28",
+    "source": "FX Bulletin",
+    "source_type": "guide",
+    "tags": [
+      "customs",
+      "fx",
+      "rate",
+      "duty",
+      "nigeria",
+      "guide",
+      "cbn",
+      "paar"
+    ],
+    "summary": "The customs duty FX rate used for PAAR assessments is the CBN official rate on the date of PAAR generation, not the date of importation or payment. This can create timing advantages or risks.",
+    "body": "Customs FX Rate Guide for Vehicle Importers. One of the most commonly misunderstood aspects of Nigerian vehicle importation is which exchange rate applies to customs duty. THE RULE: Nigeria Customs Service (NCS) uses the CBN official exchange rate published on the date of PAAR generation to calculate import duty. This is called the 'duty assessment FX rate'. IMPLICATIONS: If you generate your PAAR today (28 March 2026) at CBN rate 1,601, your duty is locked at that rate — even if the naira weakens to 1,650 by the time you pay the duty. This creates a window for strategic PAAR timing. EXAMPLE: Vehicle with CIF value $20,000. Import duty rate: 35%. Duty in USD: $7,000. Generated PAAR on 28 March at CBN 1,601: duty = ₦11.207m. If naira weakens to 1,650 by payment date, duty is still ₦11.207m (locked at PAAR generation rate). Saving vs paying at 1,650 rate: ₦343,000 per vehicle. RISK OF WAITING: If you delay PAAR generation hoping for a stronger naira rate, and the naira weakens in the interim, you pay a higher rate AND lose time. Given the consistent Q1 2026 depreciation trend (1.8–2.1% monthly), delaying PAAR generation is generally not advisable. FILE PAAR EARLY — lock in today's rate and avoid the NICIS-2 maintenance window (28–30 March)."
+  }
+]
