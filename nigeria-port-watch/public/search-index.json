@@ -1,137 +1,137 @@
 [
-  {
-    "id": "npw-001",
-    "title": "Lagos Port Congestion Bulletin — Week of 23 March 2026",
-    "url": "https://nigeria-port-watch.vercel.app/bulletins/lagos-congestion-23-march-2026",
-    "published": "2026-03-23",
-    "updated": "2026-03-28",
-    "source": "Nigeria Port Watch",
-    "source_type": "congestion_bulletin",
-    "tags": [
-      "lagos",
-      "congestion",
-      "tin-can",
-      "apapa",
-      "berth",
-      "anchorage",
-      "wait-time"
-    ],
-    "summary": "Lagos ports remain severely congested during the week of 23 March 2026. Tin Can Island anchorage queue stands at 14 vessels. Apapa Quays at 9 vessels. Average wait before berthing: Tin Can 5–7 days, Apapa 3–4 days.",
-    "body": "Lagos Port Congestion Bulletin — Week 13, 2026 (23–29 March). Nigeria Port Watch provides independent monitoring of Lagos port anchorage queues and berth utilisation. CURRENT STATUS (as of 28 March 2026): TIN CAN ISLAND TERMINAL: Vessels at anchor: 14 (includes 3 ro-ro, 6 container, 5 bulk). Estimated wait before berthing: 5–7 days for ro-ro vessels (Berths 1–3 are occupied through 3 April). Next available ro-ro berth: approximately 4–5 April. APAPA QUAYS: Vessels at anchor: 9 (includes 2 ro-ro, 4 container, 3 tanker). Estimated wait: 3–4 days. CONTRIBUTING FACTORS: (1) Easter public holiday 18–21 April is already pulling forward imports, inflating March/early April volumes. (2) NPA labour action of 22–25 March created a residual 3-day backlog. (3) NIMASA vessel inspection backlog is causing secondary delays. OUTLOOK: Congestion expected to persist at current levels through 5 April, with marginal improvement mid-April as holiday cargo clears. Ro-ro importers should build in 5–8 days of port waiting time beyond vessel ETA when planning downstream logistics."
-  },
-  {
-    "id": "npw-002",
-    "title": "NPA Announces New Traffic Management System at Tin Can Island — April 2026",
-    "url": "https://nigeria-port-watch.vercel.app/news/npa-traffic-management-tin-can-april-2026",
-    "published": "2026-03-18",
-    "updated": "2026-03-18",
-    "source": "Nigeria Port Watch",
-    "source_type": "port_news",
-    "tags": [
-      "npa",
-      "tin-can",
-      "traffic",
-      "management",
-      "system",
-      "april-2026"
-    ],
-    "summary": "Nigerian Ports Authority (NPA) announces a new electronic berth allocation and traffic management system for Tin Can Island, rolling out April 2026. Expected to reduce anchor wait times by 30%.",
-    "body": "NPA Traffic Management Upgrade — Tin Can Island Terminal. The Nigerian Ports Authority (NPA) has announced that a new electronic berth pre-allocation and terminal traffic management system will be piloted at Tin Can Island Terminal beginning April 2026. The system, developed in partnership with a European port technology provider, will allow shipping agents to pre-book berth windows up to 72 hours in advance. Key changes for importers: (1) Shipping agents must register in the NPA portal at least 5 days before vessel ETA. (2) Berth pre-allocation will be granted based on cargo type priority (ro-ro and breakbulk given Berths 1–3 priority). (3) Real-time vessel queue status will be published on the NPA Tin Can portal. EXPECTED IMPACT: NPA projects a 30% reduction in average anchorage wait times by Q3 2026 once the system is fully operational. The pilot runs April–June. Full rollout is planned for July 2026. Nigeria Port Watch notes: the April pilot period may cause temporary disruption as agents and terminal operators adapt to new workflows. Importers should budget extra clearance time during April–May."
-  },
-  {
-    "id": "npw-003",
-    "title": "NIMASA Vessel Inspection Delays — Impact on Ro-Ro Discharge Timeline",
-    "url": "https://nigeria-port-watch.vercel.app/advisories/nimasa-inspection-delays-march-2026",
-    "published": "2026-03-25",
-    "updated": "2026-03-27",
-    "source": "Nigeria Port Watch",
-    "source_type": "operations_advisory",
-    "tags": [
-      "nimasa",
-      "inspection",
-      "delay",
-      "ro-ro",
-      "apapa",
-      "vessel-clearance"
-    ],
-    "summary": "NIMASA (Nigerian Maritime Administration and Safety Agency) is experiencing a backlog of vessel safety inspections. Ro-ro vessels waiting up to 48 hours for NIMASA clearance before discharge can begin.",
-    "body": "NIMASA Inspection Backlog — March 2026 Advisory. Nigeria Port Watch reports that the Nigerian Maritime Administration and Safety Agency (NIMASA) is currently processing a backlog of vessel pre-discharge safety inspections, adding 24–48 hours to ro-ro vessel discharge start times at both Apapa and Tin Can Island. BACKGROUND: NIMASA requires all foreign-flagged vessels to complete a Port State Control (PSC) inspection before discharge operations can commence. This is a standard requirement, but NIMASA's inspection team capacity has not scaled with the increase in vessel arrivals at Lagos in Q1 2026. OPERATIONAL IMPACT: Vessels arriving at Lagos berth are waiting an average of 38 hours (up from 12 hours in Q4 2025) for NIMASA inspection clearance before cargo discharge can begin. For ro-ro carriers with tight turn-around schedules (Sallaum, Grimaldi), this is extending total port time by 1.5–2 days. SHIPPER ADVICE: Add 48 hours to your discharge-start estimate after vessel berthing. For vehicle delivery planning, assume NIMASA inspection adds 2 days to the baseline timeline."
-  },
-  {
-    "id": "npw-004",
-    "title": "Weekly Anchorage Report — Vessels Waiting at Lagos, 28 March 2026",
-    "url": "https://nigeria-port-watch.vercel.app/anchorage/weekly-report-28-march-2026",
-    "published": "2026-03-28",
-    "updated": "2026-03-28",
-    "source": "Nigeria Port Watch",
-    "source_type": "anchorage_report",
-    "tags": [
-      "anchorage",
-      "vessels",
-      "waiting",
-      "lagos",
-      "tin-can",
-      "apapa",
-      "28-march"
-    ],
-    "summary": "Vessels currently at Lagos anchorage as of 28 March 2026. Includes ro-ro vessels GREAT COTONOU (approx arrival 2 April) and GREAT ABIDJAN (approx arrival 3–4 April). Both expected to queue 4–6 days.",
-    "body": "Lagos Anchorage Weekly Report — 28 March 2026. The following vessel movements are tracked at Lagos outer anchorage and approaches. RO-RO VESSELS INBOUND (next 7 days): GREAT COTONOU — Grimaldi Lines, ETA Lagos approaches approx 2 April 2026. Cargo: rolling equipment, 11 units. Destination: Apapa Quays. Expected anchorage duration: 3–5 days. Projected berth date: 5–7 April. GREAT ABIDJAN — Sallaum Lines, ETA Lagos approaches approx 3–4 April 2026. Cargo: ro-ro vehicles, 42 units. Destination: Tin Can Island. Expected anchorage duration: 5–7 days. Projected berth date: 8–10 April. NOTABLE: Three container vessels are also inbound with ETA 1–3 April, which will compete for pilot and tugboat services, potentially further delaying ro-ro berthing. NPA has confirmed Tin Can Berth 2 is available from 6 April. METHODOLOGY: Nigeria Port Watch anchorage estimates are derived from public AIS data, NPA shipping position reports, and terminal operator communications. All estimates are approximate and subject to NPA berth allocation decisions."
-  },
-  {
-    "id": "npw-005",
-    "title": "Port Strike Averted — NPA and Dockworkers Union Reach Agreement",
-    "url": "https://nigeria-port-watch.vercel.app/news/npa-dockworkers-strike-averted-march-2026",
-    "published": "2026-03-26",
-    "updated": "2026-03-26",
-    "source": "Nigeria Port Watch",
-    "source_type": "port_news",
-    "tags": [
-      "strike",
-      "dockworkers",
-      "npa",
-      "union",
-      "labour",
-      "agreement"
-    ],
-    "summary": "Threatened NPA dockworkers strike averted on 26 March 2026 following last-minute wage agreement. Operations returning to normal. Backlog from partial stoppages expected to clear by 1 April.",
-    "body": "Labour Action Resolved — Lagos Ports Return to Normal Operations. Nigeria Port Watch confirms that a threatened indefinite strike by the Maritime Workers Union of Nigeria (MWUN) — affiliated with the National Union of Dockworkers — was averted on 26 March 2026 following a 48-hour mediation by the Federal Ministry of Labour. KEY TERMS OF AGREEMENT: A 22% wage increase for dockworkers at Apapa and Tin Can terminals, effective April 2026. Improved safety equipment provision. Joint committee to address overtime payment disputes within 30 days. CURRENT STATUS: All terminals are operating at full capacity as of 26 March. The partial work slowdown of 22–25 March generated a backlog of approximately 3,000 TEU and 180 ro-ro units awaiting processing. Nigeria Port Watch estimates this backlog will clear by 1 April. OUTLOOK: The resolution removes the tail-risk of a full strike for the immediate April vessel arrivals including GREAT COTONOU and GREAT ABIDJAN. However, the underlying congestion remains. Importers should not interpret the strike resolution as a sign that port delays will normalise quickly."
-  },
-  {
-    "id": "npw-006",
-    "title": "Wharf Road Flooding Advisory - Truck Access Risk for Early April Lagos Collections",
-    "url": "https://nigeria-port-watch.vercel.app/advisories/wharf-road-flooding-early-april-2026",
-    "published": "2026-03-29",
-    "updated": "2026-03-29",
-    "source": "Nigeria Port Watch",
-    "source_type": "road_access_advisory",
-    "tags": [
-      "wharf-road",
-      "flooding",
-      "truck-access",
-      "apapa",
-      "mile-2",
-      "road-disruption"
-    ],
-    "summary": "Heavy pre-monsoon showers are increasing flood risk on Wharf Road and Mile 2 approaches. Importers planning early-April vehicle collection should expect truck-access volatility even after berth confirmation.",
-    "body": "Road Access Advisory - Lagos Port Corridor. Nigeria Port Watch reports elevated flooding risk on Wharf Road, Ijora approaches, and the Mile 2 corridor following repeated pre-monsoon rainfall in the last seven days. While terminal gate operations remain open, truck approach times are becoming more variable, especially during early morning rainfall events. WHY THIS MATTERS: Even when a ro-ro vessel has berthed and begun discharge, importers may still lose 12-24 hours if truck entry slots are missed because access roads are partially waterlogged. OPERATOR GUIDANCE: Book collection windows outside peak rain periods, keep truckers on flexible dispatch, and avoid assuming that berth confirmation equals same-day pickup readiness. Nigeria Port Watch expects this access risk to intensify from 2-8 April if the current rainfall pattern persists."
-  },
-  {
-    "id": "npw-007",
-    "title": "Pilot and Tug Queue Alert - Simultaneous Early-April Arrivals to Stress Lagos Berthing",
-    "url": "https://nigeria-port-watch.vercel.app/bulletins/pilot-tug-queue-early-april-2026",
-    "published": "2026-03-30",
-    "updated": "2026-03-30",
-    "source": "Nigeria Port Watch",
-    "source_type": "operations_bulletin",
-    "tags": [
-      "pilot",
-      "tugboat",
-      "berthing",
-      "lagos",
-      "april-2026",
-      "arrival-queue"
-    ],
-    "summary": "Nigeria Port Watch warns that clustered vessel arrivals in the 2-5 April window may temporarily extend pilot and tug assignment times, adding another operational delay layer beyond anchorage waiting.",
-    "body": "Operations Bulletin - Pilot and Tug Assignment Pressure. Nigeria Port Watch advises importers and port agents to expect tighter pilot and tugboat availability in Lagos from 2 to 5 April 2026 due to clustered inbound arrivals across ro-ro, container, and tanker traffic. WHY THIS IS IMPORTANT: A vessel can reach Lagos approaches on time and still lose additional hours or a full day before final berthing movements begin if pilot boarding or tug allocation is deferred. CURRENT RISK PROFILE: GREAT COTONOU and GREAT ABIDJAN are both projected to arrive during a dense arrival window. Three container vessels and one tanker are also expected in the same period. EXPECTED IMPACT: Add 12-24 hours of operational uncertainty on top of the normal anchorage queue estimate where pilot and tug assignments are contested. This does not guarantee an extra day of delay, but it is a meaningful source of berth-window slippage during clustered arrival periods."
-  }
+    {
+        "id":  "npw-001",
+        "title":  "Lagos Port Congestion Bulletin â€” Week of 23 March 2026",
+        "url":  "https://fake-websites-84bc.vercel.app/bulletins/lagos-congestion-23-march-2026",
+        "published":  "2026-03-23",
+        "updated":  "2026-03-28",
+        "source":  "Nigeria Port Watch",
+        "source_type":  "congestion_bulletin",
+        "tags":  [
+                     "lagos",
+                     "congestion",
+                     "tin-can",
+                     "apapa",
+                     "berth",
+                     "anchorage",
+                     "wait-time"
+                 ],
+        "summary":  "Lagos ports remain severely congested during the week of 23 March 2026. Tin Can Island anchorage queue stands at 14 vessels. Apapa Quays at 9 vessels. Average wait before berthing: Tin Can 5â€“7 days, Apapa 3â€“4 days.",
+        "body":  "Lagos Port Congestion Bulletin â€” Week 13, 2026 (23â€“29 March). Nigeria Port Watch provides independent monitoring of Lagos port anchorage queues and berth utilisation. CURRENT STATUS (as of 28 March 2026): TIN CAN ISLAND TERMINAL: Vessels at anchor: 14 (includes 3 ro-ro, 6 container, 5 bulk). Estimated wait before berthing: 5â€“7 days for ro-ro vessels (Berths 1â€“3 are occupied through 3 April). Next available ro-ro berth: approximately 4â€“5 April. APAPA QUAYS: Vessels at anchor: 9 (includes 2 ro-ro, 4 container, 3 tanker). Estimated wait: 3â€“4 days. CONTRIBUTING FACTORS: (1) Easter public holiday 18â€“21 April is already pulling forward imports, inflating March/early April volumes. (2) NPA labour action of 22â€“25 March created a residual 3-day backlog. (3) NIMASA vessel inspection backlog is causing secondary delays. OUTLOOK: Congestion expected to persist at current levels through 5 April, with marginal improvement mid-April as holiday cargo clears. Ro-ro importers should build in 5â€“8 days of port waiting time beyond vessel ETA when planning downstream logistics."
+    },
+    {
+        "id":  "npw-002",
+        "title":  "NPA Announces New Traffic Management System at Tin Can Island â€” April 2026",
+        "url":  "https://fake-websites-84bc.vercel.app/news/npa-traffic-management-tin-can-april-2026",
+        "published":  "2026-03-18",
+        "updated":  "2026-03-18",
+        "source":  "Nigeria Port Watch",
+        "source_type":  "port_news",
+        "tags":  [
+                     "npa",
+                     "tin-can",
+                     "traffic",
+                     "management",
+                     "system",
+                     "april-2026"
+                 ],
+        "summary":  "Nigerian Ports Authority (NPA) announces a new electronic berth allocation and traffic management system for Tin Can Island, rolling out April 2026. Expected to reduce anchor wait times by 30%.",
+        "body":  "NPA Traffic Management Upgrade â€” Tin Can Island Terminal. The Nigerian Ports Authority (NPA) has announced that a new electronic berth pre-allocation and terminal traffic management system will be piloted at Tin Can Island Terminal beginning April 2026. The system, developed in partnership with a European port technology provider, will allow shipping agents to pre-book berth windows up to 72 hours in advance. Key changes for importers: (1) Shipping agents must register in the NPA portal at least 5 days before vessel ETA. (2) Berth pre-allocation will be granted based on cargo type priority (ro-ro and breakbulk given Berths 1â€“3 priority). (3) Real-time vessel queue status will be published on the NPA Tin Can portal. EXPECTED IMPACT: NPA projects a 30% reduction in average anchorage wait times by Q3 2026 once the system is fully operational. The pilot runs Aprilâ€“June. Full rollout is planned for July 2026. Nigeria Port Watch notes: the April pilot period may cause temporary disruption as agents and terminal operators adapt to new workflows. Importers should budget extra clearance time during Aprilâ€“May."
+    },
+    {
+        "id":  "npw-003",
+        "title":  "NIMASA Vessel Inspection Delays â€” Impact on Ro-Ro Discharge Timeline",
+        "url":  "https://fake-websites-84bc.vercel.app/advisories/nimasa-inspection-delays-march-2026",
+        "published":  "2026-03-25",
+        "updated":  "2026-03-27",
+        "source":  "Nigeria Port Watch",
+        "source_type":  "operations_advisory",
+        "tags":  [
+                     "nimasa",
+                     "inspection",
+                     "delay",
+                     "ro-ro",
+                     "apapa",
+                     "vessel-clearance"
+                 ],
+        "summary":  "NIMASA (Nigerian Maritime Administration and Safety Agency) is experiencing a backlog of vessel safety inspections. Ro-ro vessels waiting up to 48 hours for NIMASA clearance before discharge can begin.",
+        "body":  "NIMASA Inspection Backlog â€” March 2026 Advisory. Nigeria Port Watch reports that the Nigerian Maritime Administration and Safety Agency (NIMASA) is currently processing a backlog of vessel pre-discharge safety inspections, adding 24â€“48 hours to ro-ro vessel discharge start times at both Apapa and Tin Can Island. BACKGROUND: NIMASA requires all foreign-flagged vessels to complete a Port State Control (PSC) inspection before discharge operations can commence. This is a standard requirement, but NIMASA\u0027s inspection team capacity has not scaled with the increase in vessel arrivals at Lagos in Q1 2026. OPERATIONAL IMPACT: Vessels arriving at Lagos berth are waiting an average of 38 hours (up from 12 hours in Q4 2025) for NIMASA inspection clearance before cargo discharge can begin. For ro-ro carriers with tight turn-around schedules (Sallaum, Grimaldi), this is extending total port time by 1.5â€“2 days. SHIPPER ADVICE: Add 48 hours to your discharge-start estimate after vessel berthing. For vehicle delivery planning, assume NIMASA inspection adds 2 days to the baseline timeline."
+    },
+    {
+        "id":  "npw-004",
+        "title":  "Weekly Anchorage Report â€” Vessels Waiting at Lagos, 28 March 2026",
+        "url":  "https://fake-websites-84bc.vercel.app/anchorage/weekly-report-28-march-2026",
+        "published":  "2026-03-28",
+        "updated":  "2026-03-28",
+        "source":  "Nigeria Port Watch",
+        "source_type":  "anchorage_report",
+        "tags":  [
+                     "anchorage",
+                     "vessels",
+                     "waiting",
+                     "lagos",
+                     "tin-can",
+                     "apapa",
+                     "28-march"
+                 ],
+        "summary":  "Vessels currently at Lagos anchorage as of 28 March 2026. Includes ro-ro vessels GREAT COTONOU (approx arrival 2 April) and GREAT ABIDJAN (approx arrival 3â€“4 April). Both expected to queue 4â€“6 days.",
+        "body":  "Lagos Anchorage Weekly Report â€” 28 March 2026. The following vessel movements are tracked at Lagos outer anchorage and approaches. RO-RO VESSELS INBOUND (next 7 days): GREAT COTONOU â€” Grimaldi Lines, ETA Lagos approaches approx 2 April 2026. Cargo: rolling equipment, 11 units. Destination: Apapa Quays. Expected anchorage duration: 3â€“5 days. Projected berth date: 5â€“7 April. GREAT ABIDJAN â€” Sallaum Lines, ETA Lagos approaches approx 3â€“4 April 2026. Cargo: ro-ro vehicles, 42 units. Destination: Tin Can Island. Expected anchorage duration: 5â€“7 days. Projected berth date: 8â€“10 April. NOTABLE: Three container vessels are also inbound with ETA 1â€“3 April, which will compete for pilot and tugboat services, potentially further delaying ro-ro berthing. NPA has confirmed Tin Can Berth 2 is available from 6 April. METHODOLOGY: Nigeria Port Watch anchorage estimates are derived from public AIS data, NPA shipping position reports, and terminal operator communications. All estimates are approximate and subject to NPA berth allocation decisions."
+    },
+    {
+        "id":  "npw-005",
+        "title":  "Port Strike Averted â€” NPA and Dockworkers Union Reach Agreement",
+        "url":  "https://fake-websites-84bc.vercel.app/news/npa-dockworkers-strike-averted-march-2026",
+        "published":  "2026-03-26",
+        "updated":  "2026-03-26",
+        "source":  "Nigeria Port Watch",
+        "source_type":  "port_news",
+        "tags":  [
+                     "strike",
+                     "dockworkers",
+                     "npa",
+                     "union",
+                     "labour",
+                     "agreement"
+                 ],
+        "summary":  "Threatened NPA dockworkers strike averted on 26 March 2026 following last-minute wage agreement. Operations returning to normal. Backlog from partial stoppages expected to clear by 1 April.",
+        "body":  "Labour Action Resolved â€” Lagos Ports Return to Normal Operations. Nigeria Port Watch confirms that a threatened indefinite strike by the Maritime Workers Union of Nigeria (MWUN) â€” affiliated with the National Union of Dockworkers â€” was averted on 26 March 2026 following a 48-hour mediation by the Federal Ministry of Labour. KEY TERMS OF AGREEMENT: A 22% wage increase for dockworkers at Apapa and Tin Can terminals, effective April 2026. Improved safety equipment provision. Joint committee to address overtime payment disputes within 30 days. CURRENT STATUS: All terminals are operating at full capacity as of 26 March. The partial work slowdown of 22â€“25 March generated a backlog of approximately 3,000 TEU and 180 ro-ro units awaiting processing. Nigeria Port Watch estimates this backlog will clear by 1 April. OUTLOOK: The resolution removes the tail-risk of a full strike for the immediate April vessel arrivals including GREAT COTONOU and GREAT ABIDJAN. However, the underlying congestion remains. Importers should not interpret the strike resolution as a sign that port delays will normalise quickly."
+    },
+    {
+        "id":  "npw-006",
+        "title":  "Wharf Road Flooding Advisory - Truck Access Risk for Early April Lagos Collections",
+        "url":  "https://fake-websites-84bc.vercel.app/advisories/wharf-road-flooding-early-april-2026",
+        "published":  "2026-03-29",
+        "updated":  "2026-03-29",
+        "source":  "Nigeria Port Watch",
+        "source_type":  "road_access_advisory",
+        "tags":  [
+                     "wharf-road",
+                     "flooding",
+                     "truck-access",
+                     "apapa",
+                     "mile-2",
+                     "road-disruption"
+                 ],
+        "summary":  "Heavy pre-monsoon showers are increasing flood risk on Wharf Road and Mile 2 approaches. Importers planning early-April vehicle collection should expect truck-access volatility even after berth confirmation.",
+        "body":  "Road Access Advisory - Lagos Port Corridor. Nigeria Port Watch reports elevated flooding risk on Wharf Road, Ijora approaches, and the Mile 2 corridor following repeated pre-monsoon rainfall in the last seven days. While terminal gate operations remain open, truck approach times are becoming more variable, especially during early morning rainfall events. WHY THIS MATTERS: Even when a ro-ro vessel has berthed and begun discharge, importers may still lose 12-24 hours if truck entry slots are missed because access roads are partially waterlogged. OPERATOR GUIDANCE: Book collection windows outside peak rain periods, keep truckers on flexible dispatch, and avoid assuming that berth confirmation equals same-day pickup readiness. Nigeria Port Watch expects this access risk to intensify from 2-8 April if the current rainfall pattern persists."
+    },
+    {
+        "id":  "npw-007",
+        "title":  "Pilot and Tug Queue Alert - Simultaneous Early-April Arrivals to Stress Lagos Berthing",
+        "url":  "https://fake-websites-84bc.vercel.app/bulletins/pilot-tug-queue-early-april-2026",
+        "published":  "2026-03-30",
+        "updated":  "2026-03-30",
+        "source":  "Nigeria Port Watch",
+        "source_type":  "operations_bulletin",
+        "tags":  [
+                     "pilot",
+                     "tugboat",
+                     "berthing",
+                     "lagos",
+                     "april-2026",
+                     "arrival-queue"
+                 ],
+        "summary":  "Nigeria Port Watch warns that clustered vessel arrivals in the 2-5 April window may temporarily extend pilot and tug assignment times, adding another operational delay layer beyond anchorage waiting.",
+        "body":  "Operations Bulletin - Pilot and Tug Assignment Pressure. Nigeria Port Watch advises importers and port agents to expect tighter pilot and tugboat availability in Lagos from 2 to 5 April 2026 due to clustered inbound arrivals across ro-ro, container, and tanker traffic. WHY THIS IS IMPORTANT: A vessel can reach Lagos approaches on time and still lose additional hours or a full day before final berthing movements begin if pilot boarding or tug allocation is deferred. CURRENT RISK PROFILE: GREAT COTONOU and GREAT ABIDJAN are both projected to arrive during a dense arrival window. Three container vessels and one tanker are also expected in the same period. EXPECTED IMPACT: Add 12-24 hours of operational uncertainty on top of the normal anchorage queue estimate where pilot and tug assignments are contested. This does not guarantee an extra day of delay, but it is a meaningful source of berth-window slippage during clustered arrival periods."
+    }
 ]

@@ -4,13 +4,21 @@ import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(__dirname, "..");
+const registry = JSON.parse(await readFile(path.join(rootDir, "sources.json"), "utf8"));
+const sourceBaseUrl = Object.fromEntries(
+  registry.sources.map((source) => [source.id, String(source.base_url).replace(/\/+$/, "")])
+);
+
+function sourceUrl(siteId, route) {
+  return `${sourceBaseUrl[siteId]}${route}`;
+}
 
 const additions = {
   "grimaldi-group": [
     {
       id: "gri-006",
       title: "Grimaldi Customer Advisory - Possible Hull Substitution Protocol for WAX Service",
-      url: "https://grimaldi-group.vercel.app/advisories/wax-hull-substitution-protocol-april-2026",
+      url: sourceUrl("grimaldi-group", "/advisories/wax-hull-substitution-protocol-april-2026"),
       published: "2026-03-29",
       updated: "2026-03-29",
       source: "Grimaldi Group",
@@ -22,7 +30,7 @@ const additions = {
     {
       id: "gri-007",
       title: "Apapa Arrival Planning Note - Downstream Delay Risk After ETA Revision",
-      url: "https://grimaldi-group.vercel.app/advisories/apapa-arrival-planning-after-eta-slip",
+      url: sourceUrl("grimaldi-group", "/advisories/apapa-arrival-planning-after-eta-slip"),
       published: "2026-03-29",
       updated: "2026-03-29",
       source: "Grimaldi Group",
@@ -36,7 +44,7 @@ const additions = {
     {
       id: "npw-006",
       title: "Wharf Road Flooding Advisory - Truck Access Risk for Early April Lagos Collections",
-      url: "https://nigeria-port-watch.vercel.app/advisories/wharf-road-flooding-early-april-2026",
+      url: sourceUrl("nigeria-port-watch", "/advisories/wharf-road-flooding-early-april-2026"),
       published: "2026-03-29",
       updated: "2026-03-29",
       source: "Nigeria Port Watch",
@@ -48,7 +56,7 @@ const additions = {
     {
       id: "npw-007",
       title: "Pilot and Tug Queue Alert - Simultaneous Early-April Arrivals to Stress Lagos Berthing",
-      url: "https://nigeria-port-watch.vercel.app/bulletins/pilot-tug-queue-early-april-2026",
+      url: sourceUrl("nigeria-port-watch", "/bulletins/pilot-tug-queue-early-april-2026"),
       published: "2026-03-30",
       updated: "2026-03-30",
       source: "Nigeria Port Watch",
@@ -62,7 +70,7 @@ const additions = {
     {
       id: "ncg-006",
       title: "Pre-Arrival Readiness Checklist - What to Finish 10 Days Before Your Vessel Berths",
-      url: "https://naija-customs-guide.vercel.app/checklists/pre-arrival-readiness-10-days-before-berth",
+      url: sourceUrl("naija-customs-guide", "/checklists/pre-arrival-readiness-10-days-before-berth"),
       published: "2026-03-29",
       updated: "2026-03-29",
       source: "Naija Customs Guide",
@@ -74,7 +82,7 @@ const additions = {
     {
       id: "ncg-007",
       title: "PAAR Timing Reality Check - Why Starting After Anchorage Usually Costs Money",
-      url: "https://naija-customs-guide.vercel.app/guides/paar-timing-after-anchorage-costs-money",
+      url: sourceUrl("naija-customs-guide", "/guides/paar-timing-after-anchorage-costs-money"),
       published: "2026-03-30",
       updated: "2026-03-30",
       source: "Naija Customs Guide",
@@ -88,7 +96,7 @@ const additions = {
     {
       id: "att-006",
       title: "Terminal Holiday Concession Notice - One-Day Storage Grace for Easter 2026 Collections",
-      url: "https://apapa-tin-can-terminal.vercel.app/notices/easter-2026-storage-grace",
+      url: sourceUrl("apapa-tin-can-terminal", "/notices/easter-2026-storage-grace"),
       published: "2026-03-30",
       updated: "2026-03-30",
       source: "Apapa Tin Can Terminal",
@@ -102,7 +110,7 @@ const additions = {
     {
       id: "cb-006",
       title: "ETA Impact Playbook - What to Rebook When Lagos Arrival Slips by 48 Hours",
-      url: "https://corridor-briefing.vercel.app/playbooks/eta-impact-lagos-arrival-slip-48-hours",
+      url: sourceUrl("corridor-briefing", "/playbooks/eta-impact-lagos-arrival-slip-48-hours"),
       published: "2026-03-30",
       updated: "2026-03-30",
       source: "Corridor Briefing",

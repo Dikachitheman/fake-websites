@@ -1,97 +1,97 @@
 [
-  {
-    "id": "vtn-001",
-    "title": "GREAT ABIDJAN — Live Vessel Tracking Update, 28 March 2026",
-    "url": "https://vessel-tracker-news.vercel.app/vessels/great-abidjan/update-28-march-2026",
-    "published": "2026-03-28",
-    "updated": "2026-03-28",
-    "source": "Vessel Tracker News",
-    "source_type": "vessel_position",
-    "tags": [
-      "great-abidjan",
-      "position",
-      "live",
-      "tracking",
-      "28-march",
-      "lagos-bound"
-    ],
-    "summary": "GREAT ABIDJAN (IMO 9935040) position as of 28 March 2026: 5.25°N, 3.85°E, speed 14.2 knots, course 092°. Destination: LAGOS. ETA Lagos approaches approximately 3 April 2026.",
-    "body": "Vessel Tracker News — GREAT ABIDJAN Position Update — 28 March 2026. VESSEL DETAILS: Name: GREAT ABIDJAN. IMO: 9935040. MMSI: 357123000. Type: Ro-Ro Cargo Vessel. Flag: Marshall Islands. Operator: Sallaum Lines. LAST KNOWN POSITION: Latitude: 5.25°N. Longitude: 3.85°E. Observed at: 28 March 2026, 12:00 UTC. Speed over ground: 14.2 knots. Course over ground: 092°. True heading: 091°. Navigation status: Under Way Using Engine. AIS destination field: LAGOS. VOYAGE SUMMARY: Departed Baltimore (USBAL) 18 March 2026. Intermediate port: Cotonou (BJCOO) — estimated transit 29–30 March. Current position is east of the Greenwich Meridian, approximately 220 nautical miles west of Lagos. ETA CALCULATION: At current speed (14.2kn), distance to Lagos outer anchorage (approx 6°N, 3°E): approximately 120nm. ETA at Lagos approaches: approximately 3 April 2026, 02:00–06:00 UTC. Note: vessel is expected to transit Cotonou first. Post-Cotonou call, final approach to Lagos. Revised ETA Lagos: 3–4 April. SOURCE: AIS data aggregated from MarineTraffic public feed. Data is best-effort and may have gaps. Vessel Tracker News does not guarantee AIS data accuracy."
-  },
-  {
-    "id": "vtn-002",
-    "title": "GREAT COTONOU — Live Vessel Tracking Update, 28 March 2026",
-    "url": "https://vessel-tracker-news.vercel.app/vessels/great-cotonou/update-28-march-2026",
-    "published": "2026-03-28",
-    "updated": "2026-03-28",
-    "source": "Vessel Tracker News",
-    "source_type": "vessel_position",
-    "tags": [
-      "great-cotonou",
-      "position",
-      "live",
-      "tracking",
-      "28-march",
-      "apapa-bound"
-    ],
-    "summary": "GREAT COTONOU (IMO 9922345) position as of 28 March 2026: 4.91°N, 2.44°E, speed 12.8 knots, course 087°. Destination: TIN CAN. ETA Lagos (Apapa) approximately 2 April 2026.",
-    "body": "Vessel Tracker News — GREAT COTONOU Position Update — 28 March 2026. VESSEL DETAILS: Name: GREAT COTONOU. IMO: 9922345. MMSI: 311000111. Type: Ro-Ro Cargo Vessel. Flag: Bahamas. Operator: Grimaldi Lines. LAST KNOWN POSITION: Latitude: 4.91°N. Longitude: 2.44°E. Observed at: 28 March 2026, 12:06 UTC. Speed over ground: 12.8 knots. Course over ground: 087°. True heading: 088°. Navigation status: Under Way Using Engine. AIS destination field: TIN CAN. VOYAGE SUMMARY: Departed Savannah (USSAV) 16 March 2026. Booking reference: GRI-LAG-24007, 11 units rolling equipment. Current position is approximately 180nm west-southwest of Lagos. ETA CALCULATION: At current speed (12.8kn), distance to Apapa approaches: approximately 165nm. ETA at Lagos/Apapa outer anchorage: approximately 2 April 2026, 08:00–12:00 UTC. SPEED NOTE: GREAT COTONOU is currently running slightly below normal service speed (usual ~14kn). The speed reduction is consistent with Grimaldi's earlier advisory about adverse weather transit. Vessel does not appear to have altered course. GREAT TEMA STATUS: Sister vessel GREAT TEMA (IMO 9919876, MMSI 311000222) is currently at Baltimore, cleared engineering inspection 20 March. Not currently underway. TRACKING NOTE: AIS data sourced from public marine traffic feeds. Data quality is good in the Gulf of Guinea coastal zone."
-  },
-  {
-    "id": "vtn-003",
-    "title": "Weekly Ro-Ro Vessel Movements — West Africa Corridor, Week of 23 March 2026",
-    "url": "https://vessel-tracker-news.vercel.app/weekly/roro-movements-west-africa-23-march-2026",
-    "published": "2026-03-23",
-    "updated": "2026-03-23",
-    "source": "Vessel Tracker News",
-    "source_type": "vessel_movements",
-    "tags": [
-      "roro",
-      "vessel-movements",
-      "west-africa",
-      "weekly",
-      "23-march",
-      "2026"
-    ],
-    "summary": "Weekly summary of ro-ro vessel movements on the US–West Africa corridor, week of 23 March 2026. GREAT ABIDJAN and GREAT COTONOU both at sea, ETA Lagos first week of April. No other significant ro-ro traffic on this lane.",
-    "body": "Weekly Ro-Ro Vessel Movements — US–West Africa Corridor — Week of 23 March 2026. This weekly summary tracks significant ro-ro vessel movements on the US–West Africa shipping lane. VESSELS CURRENTLY AT SEA (as of 23 March): 1. GREAT ABIDJAN (Sallaum Lines, IMO 9935040): Position 23 March: approximately 3.5°N, -2°E (Gulf of Guinea, approaching Cotonou approaches). Speed: ~15kn. Status: On voyage Baltimore → Cotonou → Lagos. ETA Lagos: 3–4 April. 2. GREAT COTONOU (Grimaldi Lines, IMO 9922345): Position 23 March: approximately 3.2°N, -0.5°E. Speed: ~13.5kn. Status: On voyage Savannah → Lagos. ETA Lagos: 2 April. VESSELS IN PORT OR STANDBY: GREAT TEMA (Grimaldi, IMO 9919876): Baltimore, engineering inspection cleared 20 March. Standby for next rotation. GRANDE ANGOLA (Sallaum): Porto, Portugal. Scheduled for Baltimore departure 4 April for next WA-1 rotation. NOTABLE ABSENCES: No additional ro-ro vessels from other carriers were tracked on this lane this week. CMA CGM and MSC operate container vessels with ro-ro capability on some West Africa calls but were not carrying ro-ro volumes on this corridor in the reporting week. CORRIDOR OUTLOOK: The week of 30 March–5 April will see both active vessels converging on Lagos, creating simultaneous arrival conditions that will test port capacity."
-  },
-  {
-    "id": "vtn-004",
-    "title": "Understanding AIS Data Quality on the West Africa Corridor",
-    "url": "https://vessel-tracker-news.vercel.app/guides/ais-data-quality-west-africa",
-    "published": "2026-02-15",
-    "updated": "2026-02-15",
-    "source": "Vessel Tracker News",
-    "source_type": "guide",
-    "tags": [
-      "ais",
-      "data-quality",
-      "west-africa",
-      "coverage",
-      "gaps",
-      "satellite-ais"
-    ],
-    "summary": "Guide to AIS data coverage and quality on the West Africa shipping corridor. Explains terrestrial vs satellite AIS, common data gaps in the Gulf of Guinea, and how to interpret stale or missing position data.",
-    "body": "AIS Data Quality Guide — West Africa Corridor. AIS (Automatic Identification System) is the primary tool for tracking vessel positions. However, data quality on the West Africa corridor has specific characteristics importers and logistics teams should understand. TERRESTRIAL AIS COVERAGE: The Gulf of Guinea is well-covered by terrestrial AIS receivers within approximately 30–50nm of the coast. Nigerian coastal waters (within 50nm of Lagos) have good terrestrial AIS coverage. Open ocean transits (mid-Atlantic, off Ghana/Ivory Coast) have limited terrestrial coverage. SATELLITE AIS (SAT-AIS): Satellite AIS provides global coverage but with lower update frequency (every 2–6 hours vs every few minutes for terrestrial). Most commercial AIS providers (MarineTraffic, VesselFinder) use both sources. Quality importers and tracking platforms should confirm whether a position is from terrestrial or satellite AIS. COMMON DATA GAPS: 1. Open ocean gaps: Positions may be 4–8 hours old when a vessel is in the mid-Atlantic. 2. High vessel density zones (Lagos approaches): Many vessels in a small area can cause AIS reception conflicts. 3. AIS equipment issues: Vessels occasionally have AIS transponder resets, causing apparent position jumps. WHAT STALE AIS MEANS: If the last observed AIS position is more than 6 hours old for a vessel in the Gulf of Guinea, consider the position potentially stale. Apply dead reckoning (last known speed and course) for an estimated position. Saltwater distance of 12 hours × 14kn = approximately 168nm — significant for ETA calculations. RECOMMENDATION: Always cross-reference AIS data with carrier schedules and port agent reports, especially for vessels within 48 hours of Lagos arrival."
-  },
-  {
-    "id": "vtn-005",
-    "title": "GREAT ABIDJAN — Historical Track Record on US–Lagos Lane, 2025–2026",
-    "url": "https://vessel-tracker-news.vercel.app/vessels/great-abidjan/historical-record",
-    "published": "2026-03-10",
-    "updated": "2026-03-10",
-    "source": "Vessel Tracker News",
-    "source_type": "vessel_history",
-    "tags": [
-      "great-abidjan",
-      "history",
-      "track-record",
-      "transit-time",
-      "performance",
-      "2025-2026"
-    ],
-    "summary": "Historical performance of GREAT ABIDJAN on the US–Lagos ro-ro lane for the 5 voyages completed in 2025–2026. Average transit: 14.6 days Baltimore to Lagos berth. On-time rate (within 48h declared ETA): 80%. Anchor wait at Lagos: average 4.2 days.",
-    "body": "GREAT ABIDJAN — Historical Performance Record, US–Lagos Lane 2025–2026. Vessel Tracker News has compiled historical voyage data for GREAT ABIDJAN (IMO 9935040) on the US–West Africa lane. 5 COMPLETED VOYAGES TRACKED: Voyage 1 (Jan 2025): Baltimore dep 10 Jan → Lagos berth 27 Jan. Transit: 17 days. Declared ETA: 25 Jan. Delay vs declared: +2 days. Anchor wait Lagos: 6 days. Note: elevated congestion due to container vessel backlog. Voyage 2 (Mar 2025): Baltimore dep 18 Mar → Lagos berth 2 Apr. Transit: 15 days. Declared ETA: 1 Apr. Delay: +1 day. Anchor wait: 4 days. On time (within 48h). Voyage 3 (May 2025): Baltimore dep 5 May → Lagos berth 20 May. Transit: 15 days. Declared ETA: 20 May. Delay: 0. On time. Anchor wait: 3 days. Voyage 4 (Aug 2025): Baltimore dep 7 Aug → Lagos berth 22 Aug. Transit: 15 days. Declared ETA: 21 Aug. Delay: +1 day. Anchor wait: 4 days. On time. Voyage 5 (Nov 2025): Baltimore dep 12 Nov → Lagos berth 27 Nov. Transit: 15 days. Declared ETA: 26 Nov. Delay: +1 day. Anchor wait: 4 days. On time. PERFORMANCE SUMMARY: Average transit (dep to berth): 15.4 days. Average anchor wait at Lagos: 4.2 days. On-time rate (within 48h): 80% (4 of 5 voyages). ANALYST NOTE: GREAT ABIDJAN has a strong on-time record on this lane. The March 2026 voyage is performing similarly to historical pattern. Current ETA revision (+1 day) is within the normal range. No cause for concern based on historical data."
-  }
+    {
+        "id":  "vtn-001",
+        "title":  "GREAT ABIDJAN â€” Live Vessel Tracking Update, 28 March 2026",
+        "url":  "https://fake-websites-2.vercel.app/vessels/great-abidjan/update-28-march-2026",
+        "published":  "2026-03-28",
+        "updated":  "2026-03-28",
+        "source":  "Vessel Tracker News",
+        "source_type":  "vessel_position",
+        "tags":  [
+                     "great-abidjan",
+                     "position",
+                     "live",
+                     "tracking",
+                     "28-march",
+                     "lagos-bound"
+                 ],
+        "summary":  "GREAT ABIDJAN (IMO 9935040) position as of 28 March 2026: 5.25Â°N, 3.85Â°E, speed 14.2 knots, course 092Â°. Destination: LAGOS. ETA Lagos approaches approximately 3 April 2026.",
+        "body":  "Vessel Tracker News â€” GREAT ABIDJAN Position Update â€” 28 March 2026. VESSEL DETAILS: Name: GREAT ABIDJAN. IMO: 9935040. MMSI: 357123000. Type: Ro-Ro Cargo Vessel. Flag: Marshall Islands. Operator: Sallaum Lines. LAST KNOWN POSITION: Latitude: 5.25Â°N. Longitude: 3.85Â°E. Observed at: 28 March 2026, 12:00 UTC. Speed over ground: 14.2 knots. Course over ground: 092Â°. True heading: 091Â°. Navigation status: Under Way Using Engine. AIS destination field: LAGOS. VOYAGE SUMMARY: Departed Baltimore (USBAL) 18 March 2026. Intermediate port: Cotonou (BJCOO) â€” estimated transit 29â€“30 March. Current position is east of the Greenwich Meridian, approximately 220 nautical miles west of Lagos. ETA CALCULATION: At current speed (14.2kn), distance to Lagos outer anchorage (approx 6Â°N, 3Â°E): approximately 120nm. ETA at Lagos approaches: approximately 3 April 2026, 02:00â€“06:00 UTC. Note: vessel is expected to transit Cotonou first. Post-Cotonou call, final approach to Lagos. Revised ETA Lagos: 3â€“4 April. SOURCE: AIS data aggregated from MarineTraffic public feed. Data is best-effort and may have gaps. Vessel Tracker News does not guarantee AIS data accuracy."
+    },
+    {
+        "id":  "vtn-002",
+        "title":  "GREAT COTONOU â€” Live Vessel Tracking Update, 28 March 2026",
+        "url":  "https://fake-websites-2.vercel.app/vessels/great-cotonou/update-28-march-2026",
+        "published":  "2026-03-28",
+        "updated":  "2026-03-28",
+        "source":  "Vessel Tracker News",
+        "source_type":  "vessel_position",
+        "tags":  [
+                     "great-cotonou",
+                     "position",
+                     "live",
+                     "tracking",
+                     "28-march",
+                     "apapa-bound"
+                 ],
+        "summary":  "GREAT COTONOU (IMO 9922345) position as of 28 March 2026: 4.91Â°N, 2.44Â°E, speed 12.8 knots, course 087Â°. Destination: TIN CAN. ETA Lagos (Apapa) approximately 2 April 2026.",
+        "body":  "Vessel Tracker News â€” GREAT COTONOU Position Update â€” 28 March 2026. VESSEL DETAILS: Name: GREAT COTONOU. IMO: 9922345. MMSI: 311000111. Type: Ro-Ro Cargo Vessel. Flag: Bahamas. Operator: Grimaldi Lines. LAST KNOWN POSITION: Latitude: 4.91Â°N. Longitude: 2.44Â°E. Observed at: 28 March 2026, 12:06 UTC. Speed over ground: 12.8 knots. Course over ground: 087Â°. True heading: 088Â°. Navigation status: Under Way Using Engine. AIS destination field: TIN CAN. VOYAGE SUMMARY: Departed Savannah (USSAV) 16 March 2026. Booking reference: GRI-LAG-24007, 11 units rolling equipment. Current position is approximately 180nm west-southwest of Lagos. ETA CALCULATION: At current speed (12.8kn), distance to Apapa approaches: approximately 165nm. ETA at Lagos/Apapa outer anchorage: approximately 2 April 2026, 08:00â€“12:00 UTC. SPEED NOTE: GREAT COTONOU is currently running slightly below normal service speed (usual ~14kn). The speed reduction is consistent with Grimaldi\u0027s earlier advisory about adverse weather transit. Vessel does not appear to have altered course. GREAT TEMA STATUS: Sister vessel GREAT TEMA (IMO 9919876, MMSI 311000222) is currently at Baltimore, cleared engineering inspection 20 March. Not currently underway. TRACKING NOTE: AIS data sourced from public marine traffic feeds. Data quality is good in the Gulf of Guinea coastal zone."
+    },
+    {
+        "id":  "vtn-003",
+        "title":  "Weekly Ro-Ro Vessel Movements â€” West Africa Corridor, Week of 23 March 2026",
+        "url":  "https://fake-websites-2.vercel.app/weekly/roro-movements-west-africa-23-march-2026",
+        "published":  "2026-03-23",
+        "updated":  "2026-03-23",
+        "source":  "Vessel Tracker News",
+        "source_type":  "vessel_movements",
+        "tags":  [
+                     "roro",
+                     "vessel-movements",
+                     "west-africa",
+                     "weekly",
+                     "23-march",
+                     "2026"
+                 ],
+        "summary":  "Weekly summary of ro-ro vessel movements on the USâ€“West Africa corridor, week of 23 March 2026. GREAT ABIDJAN and GREAT COTONOU both at sea, ETA Lagos first week of April. No other significant ro-ro traffic on this lane.",
+        "body":  "Weekly Ro-Ro Vessel Movements â€” USâ€“West Africa Corridor â€” Week of 23 March 2026. This weekly summary tracks significant ro-ro vessel movements on the USâ€“West Africa shipping lane. VESSELS CURRENTLY AT SEA (as of 23 March): 1. GREAT ABIDJAN (Sallaum Lines, IMO 9935040): Position 23 March: approximately 3.5Â°N, -2Â°E (Gulf of Guinea, approaching Cotonou approaches). Speed: ~15kn. Status: On voyage Baltimore â†’ Cotonou â†’ Lagos. ETA Lagos: 3â€“4 April. 2. GREAT COTONOU (Grimaldi Lines, IMO 9922345): Position 23 March: approximately 3.2Â°N, -0.5Â°E. Speed: ~13.5kn. Status: On voyage Savannah â†’ Lagos. ETA Lagos: 2 April. VESSELS IN PORT OR STANDBY: GREAT TEMA (Grimaldi, IMO 9919876): Baltimore, engineering inspection cleared 20 March. Standby for next rotation. GRANDE ANGOLA (Sallaum): Porto, Portugal. Scheduled for Baltimore departure 4 April for next WA-1 rotation. NOTABLE ABSENCES: No additional ro-ro vessels from other carriers were tracked on this lane this week. CMA CGM and MSC operate container vessels with ro-ro capability on some West Africa calls but were not carrying ro-ro volumes on this corridor in the reporting week. CORRIDOR OUTLOOK: The week of 30 Marchâ€“5 April will see both active vessels converging on Lagos, creating simultaneous arrival conditions that will test port capacity."
+    },
+    {
+        "id":  "vtn-004",
+        "title":  "Understanding AIS Data Quality on the West Africa Corridor",
+        "url":  "https://fake-websites-2.vercel.app/guides/ais-data-quality-west-africa",
+        "published":  "2026-02-15",
+        "updated":  "2026-02-15",
+        "source":  "Vessel Tracker News",
+        "source_type":  "guide",
+        "tags":  [
+                     "ais",
+                     "data-quality",
+                     "west-africa",
+                     "coverage",
+                     "gaps",
+                     "satellite-ais"
+                 ],
+        "summary":  "Guide to AIS data coverage and quality on the West Africa shipping corridor. Explains terrestrial vs satellite AIS, common data gaps in the Gulf of Guinea, and how to interpret stale or missing position data.",
+        "body":  "AIS Data Quality Guide â€” West Africa Corridor. AIS (Automatic Identification System) is the primary tool for tracking vessel positions. However, data quality on the West Africa corridor has specific characteristics importers and logistics teams should understand. TERRESTRIAL AIS COVERAGE: The Gulf of Guinea is well-covered by terrestrial AIS receivers within approximately 30â€“50nm of the coast. Nigerian coastal waters (within 50nm of Lagos) have good terrestrial AIS coverage. Open ocean transits (mid-Atlantic, off Ghana/Ivory Coast) have limited terrestrial coverage. SATELLITE AIS (SAT-AIS): Satellite AIS provides global coverage but with lower update frequency (every 2â€“6 hours vs every few minutes for terrestrial). Most commercial AIS providers (MarineTraffic, VesselFinder) use both sources. Quality importers and tracking platforms should confirm whether a position is from terrestrial or satellite AIS. COMMON DATA GAPS: 1. Open ocean gaps: Positions may be 4â€“8 hours old when a vessel is in the mid-Atlantic. 2. High vessel density zones (Lagos approaches): Many vessels in a small area can cause AIS reception conflicts. 3. AIS equipment issues: Vessels occasionally have AIS transponder resets, causing apparent position jumps. WHAT STALE AIS MEANS: If the last observed AIS position is more than 6 hours old for a vessel in the Gulf of Guinea, consider the position potentially stale. Apply dead reckoning (last known speed and course) for an estimated position. Saltwater distance of 12 hours Ã— 14kn = approximately 168nm â€” significant for ETA calculations. RECOMMENDATION: Always cross-reference AIS data with carrier schedules and port agent reports, especially for vessels within 48 hours of Lagos arrival."
+    },
+    {
+        "id":  "vtn-005",
+        "title":  "GREAT ABIDJAN â€” Historical Track Record on USâ€“Lagos Lane, 2025â€“2026",
+        "url":  "https://fake-websites-2.vercel.app/vessels/great-abidjan/historical-record",
+        "published":  "2026-03-10",
+        "updated":  "2026-03-10",
+        "source":  "Vessel Tracker News",
+        "source_type":  "vessel_history",
+        "tags":  [
+                     "great-abidjan",
+                     "history",
+                     "track-record",
+                     "transit-time",
+                     "performance",
+                     "2025-2026"
+                 ],
+        "summary":  "Historical performance of GREAT ABIDJAN on the USâ€“Lagos ro-ro lane for the 5 voyages completed in 2025â€“2026. Average transit: 14.6 days Baltimore to Lagos berth. On-time rate (within 48h declared ETA): 80%. Anchor wait at Lagos: average 4.2 days.",
+        "body":  "GREAT ABIDJAN â€” Historical Performance Record, USâ€“Lagos Lane 2025â€“2026. Vessel Tracker News has compiled historical voyage data for GREAT ABIDJAN (IMO 9935040) on the USâ€“West Africa lane. 5 COMPLETED VOYAGES TRACKED: Voyage 1 (Jan 2025): Baltimore dep 10 Jan â†’ Lagos berth 27 Jan. Transit: 17 days. Declared ETA: 25 Jan. Delay vs declared: +2 days. Anchor wait Lagos: 6 days. Note: elevated congestion due to container vessel backlog. Voyage 2 (Mar 2025): Baltimore dep 18 Mar â†’ Lagos berth 2 Apr. Transit: 15 days. Declared ETA: 1 Apr. Delay: +1 day. Anchor wait: 4 days. On time (within 48h). Voyage 3 (May 2025): Baltimore dep 5 May â†’ Lagos berth 20 May. Transit: 15 days. Declared ETA: 20 May. Delay: 0. On time. Anchor wait: 3 days. Voyage 4 (Aug 2025): Baltimore dep 7 Aug â†’ Lagos berth 22 Aug. Transit: 15 days. Declared ETA: 21 Aug. Delay: +1 day. Anchor wait: 4 days. On time. Voyage 5 (Nov 2025): Baltimore dep 12 Nov â†’ Lagos berth 27 Nov. Transit: 15 days. Declared ETA: 26 Nov. Delay: +1 day. Anchor wait: 4 days. On time. PERFORMANCE SUMMARY: Average transit (dep to berth): 15.4 days. Average anchor wait at Lagos: 4.2 days. On-time rate (within 48h): 80% (4 of 5 voyages). ANALYST NOTE: GREAT ABIDJAN has a strong on-time record on this lane. The March 2026 voyage is performing similarly to historical pattern. Current ETA revision (+1 day) is within the normal range. No cause for concern based on historical data."
+    }
 ]

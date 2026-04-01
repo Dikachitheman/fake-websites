@@ -1,117 +1,117 @@
 [
-  {
-    "id": "att-001",
-    "title": "Tin Can Island Terminal — Berth Allocation Notice, April 2026",
-    "url": "https://apapa-tin-can-terminal.vercel.app/berths/tin-can-april-2026-allocation",
-    "published": "2026-03-27",
-    "updated": "2026-03-28",
-    "source": "Apapa Tin Can Terminal",
-    "source_type": "berth_notice",
-    "tags": [
-      "tin-can",
-      "berth",
-      "allocation",
-      "april",
-      "2026",
-      "ro-ro",
-      "schedule"
-    ],
-    "summary": "Tin Can Island Terminal berth allocation for April 2026. Ro-ro Berths 1–3: Berth 1 occupied by bulk vessel to 4 April. Berths 2 & 3 open from 5 April. GREAT ABIDJAN provisionally allocated Berth 2, window 6–8 April.",
-    "body": "Tin Can Island Terminal — Berth Allocation Notice — April 2026. TERMINAL OVERVIEW: Tin Can Island Terminal is operated by the Nigerian Ports Authority (NPA) and handles ro-ro, container, and bulk cargo. Ro-ro dedicated berths: Berths 1, 2, and 3 (combined quay length 650m). CURRENT BERTH STATUS (28 March 2026): Berth 1 (ro-ro): Occupied by MV GRANDE PORTO (Grimaldi container/ro-ro) until approximately 3 April. Berth 2 (ro-ro): Clear from 5 April. Provisionally allocated to GREAT ABIDJAN (Sallaum, IMO 9935040) — window 6–8 April subject to vessel arrival. Berth 3 (ro-ro/multipurpose): Occupied by a bulk carrier until 2 April, then free. Available for general assignment. VESSEL PRIORITY: NPA applies berth priority in order: vessels with pre-booked NPA berth agreements (Sallaum and Grimaldi both hold framework agreements) take priority over spot callers. Ro-ro vessels receive Berths 1–3 priority over containers at Tin Can. ANCHOR QUEUE (as of 28 March): 14 vessels at outer anchorage. Priority sequence for next berth allocation will be based on: carrier agreement status, vessel arrival sequence, cargo urgency designation. ESTIMATED BERTHING WINDOWS: GREAT COTONOU (Grimaldi, Apapa): Provisionally Berth 5, Apapa Quays — 5–7 April. GREAT ABIDJAN (Sallaum, Tin Can Berth 2): 6–8 April. These windows are provisional and subject to NPA confirmation 48 hours before vessel arrival."
-  },
-  {
-    "id": "att-002",
-    "title": "Apapa Quays Terminal — Operating Hours and Gate Congestion Notice, March 2026",
-    "url": "https://apapa-tin-can-terminal.vercel.app/notices/apapa-gate-congestion-march-2026",
-    "published": "2026-03-24",
-    "updated": "2026-03-28",
-    "source": "Apapa Tin Can Terminal",
-    "source_type": "operations_notice",
-    "tags": [
-      "apapa",
-      "gate",
-      "congestion",
-      "hours",
-      "access",
-      "trucking"
-    ],
-    "summary": "Apapa Quays is experiencing severe road and gate congestion in late March 2026. Terminal gate queues of 6–8 hours reported. Truckers advised to avoid peak hours (06:00–10:00 and 15:00–19:00). Night gate extended to 22:00.",
-    "body": "Apapa Quays Terminal — Gate Congestion Notice — March 2026. Apapa terminal management advises all haulage operators, importers and agents that gate access congestion is at elevated levels in late March 2026. CURRENT SITUATION: Road access on Creek Road, Apapa is heavily congested. Trucks are queuing 3–5km from the terminal gate in peak hours. Average gate queue time: 6–8 hours during peak periods. PEAK CONGESTION HOURS: 06:00–10:00 (morning arrival surge) and 15:00–19:00 (afternoon turnaround). RECOMMENDED APPROACH: (1) Schedule vehicle collections for 10:00–14:00 or 19:00–22:00 to avoid peak congestion. (2) Use the new NPA electronic truck management system (TMS) to obtain a truck booking time slot — available at the NPA Apapa portal. (3) Ensure all pre-clearance documentation is complete before arriving at the gate — the gate will turn back trucks without a valid PAAR and duty payment receipt. EXTENDED GATE HOURS: Apapa Quays has extended night gate operations to 22:00 (previously 20:00) to alleviate backlog. Night gate handles vehicle collection only (no new delivery). CONGESTION CAUSE: End-of-quarter import surge plus post-strike backlog. Expected to normalise by 5 April. ROAD ACCESS NOTE: Wharf Road flooding risk is elevated during the current pre-monsoon rain. Transport providers should monitor weather and road status."
-  },
-  {
-    "id": "att-003",
-    "title": "Discharge Rate and Terminal Capacity — Tin Can Island, Q1 2026",
-    "url": "https://apapa-tin-can-terminal.vercel.app/stats/tin-can-capacity-q1-2026",
-    "published": "2026-03-15",
-    "updated": "2026-03-15",
-    "source": "Apapa Tin Can Terminal",
-    "source_type": "terminal_stats",
-    "tags": [
-      "tin-can",
-      "discharge-rate",
-      "capacity",
-      "q1-2026",
-      "throughput",
-      "ro-ro"
-    ],
-    "summary": "Tin Can Island Terminal ro-ro throughput Q1 2026: 4,210 vehicle units processed Jan–Mar. Average discharge rate: 85 vehicles per day per ro-ro berth. Storage yard currently at 78% capacity.",
-    "body": "Tin Can Island Terminal — Capacity and Throughput Report, Q1 2026. THROUGHPUT: Total ro-ro vehicle units discharged, Q1 2026 (Jan 1–Mar 15): 4,210 units. Q1 2025 equivalent: 3,880 units. Year-on-year growth: +8.5%. DISCHARGE RATE: Average discharge rate for ro-ro vessels at Tin Can: 85 vehicles per day per berth under normal conditions. Peak discharge rate (large ro-ro vessel, favourable conditions): 120 vehicles per day. Current rate (March 2026, with NIMASA inspection delays): approximately 65–70 vehicles per day. VESSEL DISCHARGE TIME: A vessel with 42 units (e.g., GREAT ABIDJAN booking GRI-LAG-24001): Discharge time approximately 0.5–1 day at normal rate. Full discharge plus NIMASA inspection: 1.5–2 days. STORAGE YARD CAPACITY: Total ro-ro storage capacity at Tin Can: 2,200 vehicle units. Current utilisation (28 March 2026): 1,710 units (78%). High utilisation is contributing to the current congestion — vehicles awaiting clearance are occupying parking positions that limit manoeuvrability for incoming discharge operations. CLEARANCE SPEED: Average time from vehicle discharge to NCS clearance completion: 6.2 working days in Q1 2026. Q1 2025 average was 4.8 working days. The increase reflects the rollout of new NCS examination targeting (more physical exams) and the NICIS-2 system transition. OUTLOOK: Yard utilisation expected to ease by mid-April as Easter holiday imports clear."
-  },
-  {
-    "id": "att-004",
-    "title": "NPA Port Charges Update — 2026 Revised Schedule",
-    "url": "https://apapa-tin-can-terminal.vercel.app/charges/npa-port-charges-2026",
-    "published": "2026-01-10",
-    "updated": "2026-01-10",
-    "source": "Apapa Tin Can Terminal",
-    "source_type": "port_charges",
-    "tags": [
-      "npa",
-      "port-charges",
-      "2026",
-      "terminal-handling",
-      "fees",
-      "tariff"
-    ],
-    "summary": "Nigerian Ports Authority 2026 revised port charges schedule. Terminal handling charge (THC) for ro-ro vehicles increased 15% effective 1 January 2026. Storage charges also revised upward. Full schedule published.",
-    "body": "NPA Port Charges — 2026 Revised Schedule. The Nigerian Ports Authority has published revised port tariffs effective 1 January 2026. The following charges apply to ro-ro vehicle imports at Apapa Quays and Tin Can Island Terminal. TERMINAL HANDLING CHARGES (THC) — RO-RO VEHICLES: Small vehicles (up to 4.5m length): ₦42,000 per unit (was ₦36,500 in 2025). Medium vehicles (4.5m–6.0m): ₦58,000 per unit (was ₦50,500). Large vehicles/trucks (over 6.0m): ₦85,000 per unit (was ₦74,000). The increase represents a 15.1% uplift, broadly in line with the September 2025 CPI. STORAGE CHARGES (after free period expires): Category A (small/medium passenger vehicles): ₦28,000 per unit per day. Category B (large vehicles/SUVs): ₦38,000 per unit per day. Category C (trucks/commercial): ₦52,000 per unit per day. FREE DAYS: Standard free period: 14 calendar days from date of vessel berthing for Sallaum/Grimaldi (carriers with NPA framework agreements). Other carriers: 10 days. PORT DUES (paid by carrier, typically passed through as freight surcharge): Ro-ro vessels: Port dues charged per GRT at the NPA rate. Typical surcharge per vehicle: $15–$25 depending on vessel size. PAYMENT: All NPA charges are payable in Nigerian Naira via the NPA electronic payment portal. Payment must be completed before vehicle collection is authorised."
-  },
-  {
-    "id": "att-005",
-    "title": "Port Health and Biosecurity Requirements — Vehicle Imports, Nigeria 2026",
-    "url": "https://apapa-tin-can-terminal.vercel.app/compliance/biosecurity-vehicle-imports-2026",
-    "published": "2026-02-10",
-    "updated": "2026-02-10",
-    "source": "Apapa Tin Can Terminal",
-    "source_type": "compliance_guide",
-    "tags": [
-      "biosecurity",
-      "port-health",
-      "vehicle-imports",
-      "nigeria",
-      "fumigation",
-      "2026"
-    ],
-    "summary": "Nigeria requires all imported used vehicles to undergo port health inspection and biosecurity clearance on arrival at Lagos. New 2026 requirement: photographic evidence of vehicle cleaning/fumigation before loading at origin port required.",
-    "body": "Port Health and Biosecurity Requirements — Vehicle Imports, Nigeria 2026. The Nigerian Ports Authority (NPA) and the Federal Ministry of Agriculture and Rural Development (FMARD) have updated biosecurity requirements for imported vehicles effective 2026. KEY REQUIREMENTS: 1. PHYTOSANITARY CERTIFICATE: Required for all used vehicles imported into Nigeria. The certificate must confirm the vehicle has been inspected for soil, plant material, and pests. Issued by the USDA APHIS in the US. Obtain before loading. 2. PHOTOGRAPHIC EVIDENCE OF CLEANING: New for 2026 — importers must provide timestamped photographic evidence (minimum 4 photos: front, rear, both sides) showing the vehicle clean and free of soil/plant material before loading at the US terminal. This evidence is required for PAAR submission on NICIS-2. 3. PORT HEALTH INSPECTION AT LAGOS: Upon arrival, the Port Health Authority of Nigeria (PHAN) conducts a visual inspection of a sample of vehicles (typically 20% of consignment). Vehicles with soil, plant material, or pest evidence may be quarantined for fumigation. Fumigation cost: ₦35,000–₦60,000 per vehicle plus 3–5 day delay. 4. FUMIGATION CERTIFICATE: Importers may opt to pre-fumigation at origin (recommended for used vehicles). Fumigation certificate from a USDA-approved fumigator is accepted by PHAN and typically waives the Lagos port inspection. PRACTICAL ADVICE: Pre-clean all vehicles before terminal delivery at Baltimore/Savannah. Obtain APHIS phytosanitary certificate and fumigation certificate before sailing. Include both with your PAAR documentation."
-  },
-  {
-    "id": "att-006",
-    "title": "Terminal Holiday Concession Notice - One-Day Storage Grace for Easter 2026 Collections",
-    "url": "https://apapa-tin-can-terminal.vercel.app/notices/easter-2026-storage-grace",
-    "published": "2026-03-30",
-    "updated": "2026-03-30",
-    "source": "Apapa Tin Can Terminal",
-    "source_type": "terminal_notice",
-    "tags": [
-      "easter",
-      "storage-grace",
-      "free-days",
-      "terminal-notice",
-      "tin-can",
-      "apapa"
-    ],
-    "summary": "Apapa Tin Can Terminal announces a one-day operational storage grace for vehicle collections impacted directly by reduced Easter processing capacity on 18-21 April 2026, subject to documentary conditions.",
-    "body": "Terminal Holiday Concession Notice - Easter 2026. Apapa Tin Can Terminal advises importers and clearing agents that a one-day operational storage grace may be applied for qualifying vehicle consignments directly affected by reduced Easter processing activity between 18 and 21 April 2026. IMPORTANT LIMITS: This is not an automatic blanket waiver. The concession applies only where the importer can show that customs processing or terminal access was delayed by the holiday operating schedule after the consignment had already completed the core documentary steps required for release. DOCUMENTS EXPECTED: evidence of PAAR issuance, duty payment, terminal release request, and a documented collection attempt or processing queue dated within the holiday window. WHY THIS MATTERS: For importers operating near the end of their free-day period, even a one-day grace can materially reduce storage exposure. Terminal users should coordinate with their agents early and preserve documentary evidence if a holiday-related processing bottleneck occurs."
-  }
+    {
+        "id":  "att-001",
+        "title":  "Tin Can Island Terminal â€” Berth Allocation Notice, April 2026",
+        "url":  "https://fake-websites.vercel.app/berths/tin-can-april-2026-allocation",
+        "published":  "2026-03-27",
+        "updated":  "2026-03-28",
+        "source":  "Apapa Tin Can Terminal",
+        "source_type":  "berth_notice",
+        "tags":  [
+                     "tin-can",
+                     "berth",
+                     "allocation",
+                     "april",
+                     "2026",
+                     "ro-ro",
+                     "schedule"
+                 ],
+        "summary":  "Tin Can Island Terminal berth allocation for April 2026. Ro-ro Berths 1â€“3: Berth 1 occupied by bulk vessel to 4 April. Berths 2 \u0026 3 open from 5 April. GREAT ABIDJAN provisionally allocated Berth 2, window 6â€“8 April.",
+        "body":  "Tin Can Island Terminal â€” Berth Allocation Notice â€” April 2026. TERMINAL OVERVIEW: Tin Can Island Terminal is operated by the Nigerian Ports Authority (NPA) and handles ro-ro, container, and bulk cargo. Ro-ro dedicated berths: Berths 1, 2, and 3 (combined quay length 650m). CURRENT BERTH STATUS (28 March 2026): Berth 1 (ro-ro): Occupied by MV GRANDE PORTO (Grimaldi container/ro-ro) until approximately 3 April. Berth 2 (ro-ro): Clear from 5 April. Provisionally allocated to GREAT ABIDJAN (Sallaum, IMO 9935040) â€” window 6â€“8 April subject to vessel arrival. Berth 3 (ro-ro/multipurpose): Occupied by a bulk carrier until 2 April, then free. Available for general assignment. VESSEL PRIORITY: NPA applies berth priority in order: vessels with pre-booked NPA berth agreements (Sallaum and Grimaldi both hold framework agreements) take priority over spot callers. Ro-ro vessels receive Berths 1â€“3 priority over containers at Tin Can. ANCHOR QUEUE (as of 28 March): 14 vessels at outer anchorage. Priority sequence for next berth allocation will be based on: carrier agreement status, vessel arrival sequence, cargo urgency designation. ESTIMATED BERTHING WINDOWS: GREAT COTONOU (Grimaldi, Apapa): Provisionally Berth 5, Apapa Quays â€” 5â€“7 April. GREAT ABIDJAN (Sallaum, Tin Can Berth 2): 6â€“8 April. These windows are provisional and subject to NPA confirmation 48 hours before vessel arrival."
+    },
+    {
+        "id":  "att-002",
+        "title":  "Apapa Quays Terminal â€” Operating Hours and Gate Congestion Notice, March 2026",
+        "url":  "https://fake-websites.vercel.app/notices/apapa-gate-congestion-march-2026",
+        "published":  "2026-03-24",
+        "updated":  "2026-03-28",
+        "source":  "Apapa Tin Can Terminal",
+        "source_type":  "operations_notice",
+        "tags":  [
+                     "apapa",
+                     "gate",
+                     "congestion",
+                     "hours",
+                     "access",
+                     "trucking"
+                 ],
+        "summary":  "Apapa Quays is experiencing severe road and gate congestion in late March 2026. Terminal gate queues of 6â€“8 hours reported. Truckers advised to avoid peak hours (06:00â€“10:00 and 15:00â€“19:00). Night gate extended to 22:00.",
+        "body":  "Apapa Quays Terminal â€” Gate Congestion Notice â€” March 2026. Apapa terminal management advises all haulage operators, importers and agents that gate access congestion is at elevated levels in late March 2026. CURRENT SITUATION: Road access on Creek Road, Apapa is heavily congested. Trucks are queuing 3â€“5km from the terminal gate in peak hours. Average gate queue time: 6â€“8 hours during peak periods. PEAK CONGESTION HOURS: 06:00â€“10:00 (morning arrival surge) and 15:00â€“19:00 (afternoon turnaround). RECOMMENDED APPROACH: (1) Schedule vehicle collections for 10:00â€“14:00 or 19:00â€“22:00 to avoid peak congestion. (2) Use the new NPA electronic truck management system (TMS) to obtain a truck booking time slot â€” available at the NPA Apapa portal. (3) Ensure all pre-clearance documentation is complete before arriving at the gate â€” the gate will turn back trucks without a valid PAAR and duty payment receipt. EXTENDED GATE HOURS: Apapa Quays has extended night gate operations to 22:00 (previously 20:00) to alleviate backlog. Night gate handles vehicle collection only (no new delivery). CONGESTION CAUSE: End-of-quarter import surge plus post-strike backlog. Expected to normalise by 5 April. ROAD ACCESS NOTE: Wharf Road flooding risk is elevated during the current pre-monsoon rain. Transport providers should monitor weather and road status."
+    },
+    {
+        "id":  "att-003",
+        "title":  "Discharge Rate and Terminal Capacity â€” Tin Can Island, Q1 2026",
+        "url":  "https://fake-websites.vercel.app/stats/tin-can-capacity-q1-2026",
+        "published":  "2026-03-15",
+        "updated":  "2026-03-15",
+        "source":  "Apapa Tin Can Terminal",
+        "source_type":  "terminal_stats",
+        "tags":  [
+                     "tin-can",
+                     "discharge-rate",
+                     "capacity",
+                     "q1-2026",
+                     "throughput",
+                     "ro-ro"
+                 ],
+        "summary":  "Tin Can Island Terminal ro-ro throughput Q1 2026: 4,210 vehicle units processed Janâ€“Mar. Average discharge rate: 85 vehicles per day per ro-ro berth. Storage yard currently at 78% capacity.",
+        "body":  "Tin Can Island Terminal â€” Capacity and Throughput Report, Q1 2026. THROUGHPUT: Total ro-ro vehicle units discharged, Q1 2026 (Jan 1â€“Mar 15): 4,210 units. Q1 2025 equivalent: 3,880 units. Year-on-year growth: +8.5%. DISCHARGE RATE: Average discharge rate for ro-ro vessels at Tin Can: 85 vehicles per day per berth under normal conditions. Peak discharge rate (large ro-ro vessel, favourable conditions): 120 vehicles per day. Current rate (March 2026, with NIMASA inspection delays): approximately 65â€“70 vehicles per day. VESSEL DISCHARGE TIME: A vessel with 42 units (e.g., GREAT ABIDJAN booking GRI-LAG-24001): Discharge time approximately 0.5â€“1 day at normal rate. Full discharge plus NIMASA inspection: 1.5â€“2 days. STORAGE YARD CAPACITY: Total ro-ro storage capacity at Tin Can: 2,200 vehicle units. Current utilisation (28 March 2026): 1,710 units (78%). High utilisation is contributing to the current congestion â€” vehicles awaiting clearance are occupying parking positions that limit manoeuvrability for incoming discharge operations. CLEARANCE SPEED: Average time from vehicle discharge to NCS clearance completion: 6.2 working days in Q1 2026. Q1 2025 average was 4.8 working days. The increase reflects the rollout of new NCS examination targeting (more physical exams) and the NICIS-2 system transition. OUTLOOK: Yard utilisation expected to ease by mid-April as Easter holiday imports clear."
+    },
+    {
+        "id":  "att-004",
+        "title":  "NPA Port Charges Update â€” 2026 Revised Schedule",
+        "url":  "https://fake-websites.vercel.app/charges/npa-port-charges-2026",
+        "published":  "2026-01-10",
+        "updated":  "2026-01-10",
+        "source":  "Apapa Tin Can Terminal",
+        "source_type":  "port_charges",
+        "tags":  [
+                     "npa",
+                     "port-charges",
+                     "2026",
+                     "terminal-handling",
+                     "fees",
+                     "tariff"
+                 ],
+        "summary":  "Nigerian Ports Authority 2026 revised port charges schedule. Terminal handling charge (THC) for ro-ro vehicles increased 15% effective 1 January 2026. Storage charges also revised upward. Full schedule published.",
+        "body":  "NPA Port Charges â€” 2026 Revised Schedule. The Nigerian Ports Authority has published revised port tariffs effective 1 January 2026. The following charges apply to ro-ro vehicle imports at Apapa Quays and Tin Can Island Terminal. TERMINAL HANDLING CHARGES (THC) â€” RO-RO VEHICLES: Small vehicles (up to 4.5m length): â‚¦42,000 per unit (was â‚¦36,500 in 2025). Medium vehicles (4.5mâ€“6.0m): â‚¦58,000 per unit (was â‚¦50,500). Large vehicles/trucks (over 6.0m): â‚¦85,000 per unit (was â‚¦74,000). The increase represents a 15.1% uplift, broadly in line with the September 2025 CPI. STORAGE CHARGES (after free period expires): Category A (small/medium passenger vehicles): â‚¦28,000 per unit per day. Category B (large vehicles/SUVs): â‚¦38,000 per unit per day. Category C (trucks/commercial): â‚¦52,000 per unit per day. FREE DAYS: Standard free period: 14 calendar days from date of vessel berthing for Sallaum/Grimaldi (carriers with NPA framework agreements). Other carriers: 10 days. PORT DUES (paid by carrier, typically passed through as freight surcharge): Ro-ro vessels: Port dues charged per GRT at the NPA rate. Typical surcharge per vehicle: $15â€“$25 depending on vessel size. PAYMENT: All NPA charges are payable in Nigerian Naira via the NPA electronic payment portal. Payment must be completed before vehicle collection is authorised."
+    },
+    {
+        "id":  "att-005",
+        "title":  "Port Health and Biosecurity Requirements â€” Vehicle Imports, Nigeria 2026",
+        "url":  "https://fake-websites.vercel.app/compliance/biosecurity-vehicle-imports-2026",
+        "published":  "2026-02-10",
+        "updated":  "2026-02-10",
+        "source":  "Apapa Tin Can Terminal",
+        "source_type":  "compliance_guide",
+        "tags":  [
+                     "biosecurity",
+                     "port-health",
+                     "vehicle-imports",
+                     "nigeria",
+                     "fumigation",
+                     "2026"
+                 ],
+        "summary":  "Nigeria requires all imported used vehicles to undergo port health inspection and biosecurity clearance on arrival at Lagos. New 2026 requirement: photographic evidence of vehicle cleaning/fumigation before loading at origin port required.",
+        "body":  "Port Health and Biosecurity Requirements â€” Vehicle Imports, Nigeria 2026. The Nigerian Ports Authority (NPA) and the Federal Ministry of Agriculture and Rural Development (FMARD) have updated biosecurity requirements for imported vehicles effective 2026. KEY REQUIREMENTS: 1. PHYTOSANITARY CERTIFICATE: Required for all used vehicles imported into Nigeria. The certificate must confirm the vehicle has been inspected for soil, plant material, and pests. Issued by the USDA APHIS in the US. Obtain before loading. 2. PHOTOGRAPHIC EVIDENCE OF CLEANING: New for 2026 â€” importers must provide timestamped photographic evidence (minimum 4 photos: front, rear, both sides) showing the vehicle clean and free of soil/plant material before loading at the US terminal. This evidence is required for PAAR submission on NICIS-2. 3. PORT HEALTH INSPECTION AT LAGOS: Upon arrival, the Port Health Authority of Nigeria (PHAN) conducts a visual inspection of a sample of vehicles (typically 20% of consignment). Vehicles with soil, plant material, or pest evidence may be quarantined for fumigation. Fumigation cost: â‚¦35,000â€“â‚¦60,000 per vehicle plus 3â€“5 day delay. 4. FUMIGATION CERTIFICATE: Importers may opt to pre-fumigation at origin (recommended for used vehicles). Fumigation certificate from a USDA-approved fumigator is accepted by PHAN and typically waives the Lagos port inspection. PRACTICAL ADVICE: Pre-clean all vehicles before terminal delivery at Baltimore/Savannah. Obtain APHIS phytosanitary certificate and fumigation certificate before sailing. Include both with your PAAR documentation."
+    },
+    {
+        "id":  "att-006",
+        "title":  "Terminal Holiday Concession Notice - One-Day Storage Grace for Easter 2026 Collections",
+        "url":  "https://fake-websites.vercel.app/notices/easter-2026-storage-grace",
+        "published":  "2026-03-30",
+        "updated":  "2026-03-30",
+        "source":  "Apapa Tin Can Terminal",
+        "source_type":  "terminal_notice",
+        "tags":  [
+                     "easter",
+                     "storage-grace",
+                     "free-days",
+                     "terminal-notice",
+                     "tin-can",
+                     "apapa"
+                 ],
+        "summary":  "Apapa Tin Can Terminal announces a one-day operational storage grace for vehicle collections impacted directly by reduced Easter processing capacity on 18-21 April 2026, subject to documentary conditions.",
+        "body":  "Terminal Holiday Concession Notice - Easter 2026. Apapa Tin Can Terminal advises importers and clearing agents that a one-day operational storage grace may be applied for qualifying vehicle consignments directly affected by reduced Easter processing activity between 18 and 21 April 2026. IMPORTANT LIMITS: This is not an automatic blanket waiver. The concession applies only where the importer can show that customs processing or terminal access was delayed by the holiday operating schedule after the consignment had already completed the core documentary steps required for release. DOCUMENTS EXPECTED: evidence of PAAR issuance, duty payment, terminal release request, and a documented collection attempt or processing queue dated within the holiday window. WHY THIS MATTERS: For importers operating near the end of their free-day period, even a one-day grace can materially reduce storage exposure. Terminal users should coordinate with their agents early and preserve documentary evidence if a holiday-related processing bottleneck occurs."
+    }
 ]

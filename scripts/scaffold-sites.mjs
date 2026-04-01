@@ -8,6 +8,10 @@ const sourcesPath = path.join(rootDir, "sources.json");
 
 const registry = JSON.parse(await readFile(sourcesPath, "utf8"));
 
+function normalizeBaseUrl(url) {
+  return String(url).replace(/\/+$/, "");
+}
+
 const palettes = {
   "sallaum-lines": { accent: "#0f766e", surface: "#ecfeff", text: "#11302f" },
   "grimaldi-group": { accent: "#991b1b", surface: "#fef2f2", text: "#3f1414" },
@@ -91,13 +95,14 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 
 function siteConfigJs(source) {
   const palette = palettes[source.id] ?? { accent: "#0f766e", surface: "#f0fdfa", text: "#134e4a" };
+  const baseUrl = normalizeBaseUrl(source.base_url);
   return `export const siteConfig = ${JSON.stringify(
     {
       id: source.id,
       name: source.name,
       description: source.description ?? source.content_owner,
-      baseUrl: source.base_url,
-      searchIndexUrl: source.search_index_url,
+      baseUrl,
+      searchIndexUrl: `${baseUrl}/search-index.json`,
       brandPositioning: source.brand_positioning,
       contentOwner: source.content_owner,
       accent: palette.accent,
